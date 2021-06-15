@@ -1,0 +1,9 @@
+ 
+95
+"Description",C,1,18,0,18,0,,"","",,"Blank",
+"ST-CO-TAZ",C,19,12,0,12,0,,"","",,"Blank",
+"District",I,31,3,0,3,0,,"","",,"Blank",
+"YCOORD2",R,34,20,0,20,6,,"","",,"Blank",
+"XCOORD2",R,54,20,0,20,6,,"","",,"Blank",
+"TAZMoParkCost",R,74,10,0,10,2,,"","",,"Blank",
+"CloneTAZ",C,84,12,0,12,0,,"","",,"Blank",

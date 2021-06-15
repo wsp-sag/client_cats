@@ -1,0 +1,48 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon
+37380,,College St & 2nd St,35.22366,-80.845635
+25360,,College St & 3rd St,35.224455,-80.844508
+25330,,College St & 4th St,35.225372,-80.843137
+25310,,College St & 6th St,35.227712,-80.839776
+25390,,College St & 8th St,35.229222,-80.837706
+25410,,College St & 11th St,35.231073,-80.835132
+remix_bd5f9ef4-251d-41c2-8600-3f4295e8c0bc,,Lowes Corp,35.5370630593895,-80.8549761772156
+remix_c8f0639e-3734-4122-b582-52f68fa0b9f6,,Williamson & Alcove,35.5571711987338,-80.8621215820312
+remix_9ddef925-a8aa-4de9-ab42-7031d62f98d1,,Williamson & Brawley,35.5855374866136,-80.8737087249756
+remix_76bb4a4a-fa63-42dc-90b3-c2d1713ea777,,Mooresville PNR,35.5949885027202,-80.8570200204849
+remix_c470f7cf-adef-4a5e-9b23-b53516702e7a,,Williamson & Brawley,35.5854851353907,-80.874143242836
+remix_c9124293-4336-42c2-bfcc-5e938523638c,,Williamson & Alcove,35.5570359101113,-80.8624058961868
+remix_148ee13d-6f6d-40f4-9d66-bf8d0dcb1591,,Lowes Corp,35.5370455984278,-80.8550620079041
+remix-78955990,,Untitled Stop,35.231922,-80.838877
+remix-78955991,,Untitled Stop,35.22973,-80.842014
+05710,,Church St & 3rd St,35.226847,-80.846066
+45010,,3rd St & Tryon St,35.225766,-80.845539
+45011,,3rd St & College St,35.224742,-80.844335
+00003,,3rd/ Convention Center Station,35.223631,-80.843237
+08220,,3rd St & Brevard St,35.223492,-80.842991
+remix_99de89fe-b219-4558-b4b7-64d0ddfa338a,,Untitled Stop,35.2227722754581,-80.8421204878784
+08230,,3rd St & Davidson St,35.221474,-80.840529
+08240,,3rd St @ Marshall Park,35.22004,-80.838876
+08250,,3rd St & McDowell St,35.218933,-80.837783
+59580,,Johnson & Wales Way & 4th St,35.233147,-80.852583
+59590,,4th St & Cedar St,35.231797,-80.850783
+44280,,Union Towne Center,35.06742,-80.639319
+44275,,Monroe Crossing Mall,35.004878,-80.558109
+45768,,4th St & McDowell St,35.220686,-80.837385
+07380,,4th St & Davidson St,35.222016,-80.839027
+32550,,Transit Center- Bay X,35.224447,-80.841852
+25650,,4th St & Tryon St,35.226379,-80.843945
+38420,,4th St & Poplar St,35.227629,-80.845557
+59660,,4th St & Graham St,35.229382,-80.847612
+59591,,4th St & Cedar St,35.231507,-80.850143
+59581,,Johnson & Wales Way @ Doubletree,35.23359,-80.852415
+40775,,White Street Park and Ride,34.927049,-81.026936
+40770,,Cinema Dr @ Regal Manchester,34.94447,-80.977699
+40760,,2nd Baxter Xing & Springmaid Ave,35.028754,-80.968528
+52494,,Carowinds Park and Ride @ Cabelas Drive,35.096857,-80.934811
+45749,,4th St & Church St,35.226785,-80.844501
+38640,,Oakland St & Main Ave,35.264641,-81.179888
+39740,,Abbey Plaza,35.252681,-81.029325
+11060,,Freedom Dr & Pacific St,35.238083,-80.883582
+33260,,4th St Ext & Victoria Ave,35.23287,-80.853825
+33250,,4th St Ext & Victoria Ave,35.232935,-80.853408
+11050,,Freedom Dr @ 2640,35.238185,-80.883387

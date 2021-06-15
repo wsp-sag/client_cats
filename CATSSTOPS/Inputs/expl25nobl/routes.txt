@@ -1,0 +1,5 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+7679f112,1,83x,Mooresville Exp,3,CC9B00,ffffff
+7ab2871f,1,74x,Union County Express,3,cc9b00,ffffff
+bd540e3c,1,82x,Rock Hill Express,3,cc9b00,ffffff
+f49db018,1,85x,Gastonia Express,3,cc9b00,ffffff

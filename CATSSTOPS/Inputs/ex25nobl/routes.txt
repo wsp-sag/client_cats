@@ -1,0 +1,14 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+029687b3,1,64x,Independence Blvd Express,3,CC9B00,ffffff
+2a6a5fdb,1,65x,Matthews Express,3,cc9b00,ffffff
+33778287,1,53x-Northlake,Express,3,cc9b00,ffffff
+6057ec11,1,62x,Rea Road Express,3,cc9b00,ffffff
+6a0e541e,1,77X,North Meck Express,3,cc9b00,ffffff
+89e895b7,1,61x,Arboretum Express,3,cc9b00,ffffff
+8f7c9de5,1,41x,Steele Creek Express,3,cc9b00,ffffff
+96cfea56,1,48x-Northcross,Express,3,cc9b00,ffffff
+ad6bc30a,1,46x,Harrisburg Road Express,3,cc9b00,ffffff
+b6971f51,1,52x,Idlewild Road Express,3,CC9B00,ffffff
+bc485dc4,1,88x,Mountain Island Express,3,cc9b00,ffffff
+c14712d4,1,47x,Huntersville Greenhouse Express,3,cc9b00,ffffff
+c4548aeb,1,40x,Lawyers Road Express,3,cc9b00,ffffff

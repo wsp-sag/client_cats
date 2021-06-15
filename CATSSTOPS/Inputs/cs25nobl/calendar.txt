@@ -1,0 +1,5 @@
+service_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday
+1,20190506,20210605,1,1,1,1,1,0,0
+2,20190506,20210605,0,0,0,0,0,1,0
+3,20190506,20210605,0,0,0,0,0,0,1
+UNCC-NINER-BUS,20191002,20210202,1,1,1,1,1,1,1

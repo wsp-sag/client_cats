@@ -1,0 +1,1005 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon
+45107,,"Eastland Transit Center- Bay C",35.208338,-80.753560
+05590,,"Central Ave & Sharon Amity Rd",35.209599,-80.756430
+27890,,"Sharon Amity Rd & Central Ave",35.211151,-80.756647
+27920,,"Sharon Amity Rd & Wilora Lake Rd",35.214307,-80.755493
+27970,,"Sharon Amity Rd & Tarrywood Ln",35.218552,-80.753674
+28000,,"Sharon Amity Rd & Sudbury Rd",35.219682,-80.752645
+28020,,"Sharon Amity Rd & Abbeydale Dr",35.220620,-80.751811
+28025,,"Sharon Amity Rd & Twisted Oaks Rd",35.222340,-80.750335
+11895,,"Hickory Grove Rd & Shamrock Dr",35.223804,-80.745461
+11905,,"Hickory Grove Rd & Valleyview Dr",35.223780,-80.741907
+11915,,"Hickory Grove Rd & Craigwood Dr",35.223294,-80.738239
+11935,,"Hickory Grove Rd & Martha's Ridge Dr",35.222809,-80.732570
+11955,,"Hickory Grove Rd & WT Harris Blvd",35.222525,-80.726745
+45220,,"Hickory Grove Rd & WT Harris Blvd",35.223577,-80.723888
+45230,,"Pence Rd & Hickory Trace Dr",35.225643,-80.720104
+45240,,"Pence Rd & Montezuma Trl",35.225488,-80.715312
+45242,,"Pence Rd & Parkers Crossing Dr",35.224669,-80.710445
+38410,,"Pence Rd & Holly Hill Rd",35.222871,-80.705793
+21805,,"Pence Rd & Viola Dr",35.216745,-80.695122
+38350,,"Pence Rd & Viola Dr",35.215564,-80.690138
+38360,,"Harrisburg Rd & Pence Rd",35.213341,-80.687203
+45320,,"Albemarle Rd & Harrisburg Rd",35.211762,-80.689279
+45330,,"Circumferential Rd & Trellis Pointe Blvd",35.208413,-80.692617
+00340,,"Albemarle Rd & Dwightware Blvd",35.211493,-80.690836
+11710,,"Harrisburg Rd & Pence Rd",35.213725,-80.687087
+45155,,"Pence Rd & Viola Dr",35.215908,-80.690752
+21800,,"Pence Rd & Viola Dr",35.216970,-80.695341
+45165,,"Pence Rd @ 7901",35.221024,-80.700379
+21790,,"Pence Rd & Holly Hill Rd",35.222590,-80.704738
+45175,,"Pence Rd & Parkers Crossing Dr",35.224771,-80.711016
+45185,,"Pence Rd & Pence Grove Rd",35.225666,-80.715335
+45195,,"Pence Rd & Highland Ave",35.225753,-80.720042
+45372,,"Hickory Grove Rd & Susan Dr",35.224624,-80.722934
+11940,,"Hickory Grove Rd & WT Harris Blvd",35.222708,-80.726415
+11950,,"Hickory Grove Rd & Lawrence Orr Rd",35.222757,-80.728207
+11930,,"Hickory Grove Rd & Martha's Ridge Dr",35.222953,-80.732552
+11920,,"Hickory Grove Rd & Gaynelle Dr",35.223102,-80.735217
+11910,,"Hickory Grove Rd & Craigwood Dr",35.223445,-80.738316
+11900,,"Hickory Grove Rd & Valleyview Dr",35.223938,-80.742492
+11890,,"Hickory Grove Rd & Shamrock Dr",35.223963,-80.745427
+11880,,"Hickory Grove Rd & Sharon Amity Rd",35.224248,-80.748380
+28030,,"Sharon Amity Rd & Hickory Grove Rd",35.223183,-80.749814
+27980,,"Sharon Amity Rd & Tarrywood Ln",35.218741,-80.753646
+27950,,"Sharon Amity Rd & Auburndale Rd",35.215568,-80.755266
+27910,,"Sharon Amity Rd & Central Ave",35.211779,-80.756564
+59490,,"Amazon Distribution Center",35.243262,-80.997824
+remix_3fcc3160-a825-44ef-ac8a-1e33e244b51f,,"Untitled Stop",35.241529,-80.983280
+46557,,"Wilkinson Blvd & Huntlynn Rd",35.240599,-80.977153
+remix_0730a9a1-13b6-4a53-9879-00a16cc60a22,,"Untitled Stop",35.239525,-80.966305
+46558,,"Wilkinson Blvd & Huntlynn Rd",35.240870,-80.977534
+89,,"Sam Wilson",35.241679,-80.982630
+remix_9064e776-5ad4-4670-9622-de6d0e6b2095,,"Untitled Stop",35.103598,-80.697241
+remix_ef3d61e2-dd1c-4941-b6f7-ae2ded0e4417,,"Untitled Stop",35.107392,-80.701506
+remix_c8749559-9ce5-46f9-bd0e-139d040f1e71,,"Untitled Stop",35.109726,-80.701933
+remix_915abd3d-65ab-4e64-abf1-90b4a9383329,,"Untitled Stop",35.111169,-80.698163
+remix_ff88eb06-ee49-4db0-9cc3-a9202f598538,,"Untitled Stop",35.114748,-80.698570
+remix_d0599753-a775-4b3f-98e7-abd1665fe65b,,"Untitled Stop",35.117369,-80.700204
+remix_bd71f0bb-b751-482c-a2d7-28d19a8358b2,,"Untitled Stop",35.117808,-80.704123
+remix_acd1eb1d-2483-492b-b7b6-cb76d49e5d42,,"Untitled Stop",35.117728,-80.705536
+37220,,"Matthews-Mint Hill Rd & Crestdale Rd",35.117880,-80.708464
+37250,,"Matthews-Mint Hill Rd @ 701 (Conbraco)",35.117831,-80.710669
+37230,,"Matthews-Mint Hill Rd @ Presbyterian Hospital",35.117712,-80.712830
+remix_19154c64-346e-45a3-909f-93d20d8693ef,,"Untitled Stop",35.118057,-80.719775
+37176,,"Trade St & Park Center Dr",35.119633,-80.718749
+37180,,"Trade St & Matthews Township Pkwy",35.121085,-80.717611
+45924,,"Sam Newell Rd & Mann Dr",35.124168,-80.717873
+42357,,"Sam Newell Rd & Matthews Commons Dr",35.132559,-80.718706
+42355,,"Matthews Park & Ride",35.134297,-80.715534
+46560,,"Windsor Square Dr & Independence Blvd",35.132748,-80.712698
+42358,,"Sam Newell Rd & Matthews Commons Dr",35.131724,-80.719234
+45932,,"Sam Newell Rd & Mann Dr",35.124111,-80.718002
+37235,,"Trade St & Park Center Dr",35.119662,-80.718893
+remix_e2e21186-3449-428f-9928-a9348642f781,,"Untitled Stop",35.118473,-80.720152
+remix_379292c5-da82-4d12-938c-17ed327f2ec9,,"Untitled Stop",35.117966,-80.719858
+remix_f8e391d8-88b3-4b90-8c33-6801c8aac30d,,"Untitled Stop",35.117534,-80.705576
+remix_b5b99d01-e026-4f5f-ae74-488d94ace6d4,,"Untitled Stop",35.117711,-80.703360
+remix_41ba7368-14d3-4ef5-beb4-57c66d40f77c,,"Untitled Stop",35.117004,-80.699714
+remix_1595da28-3329-4e3c-ab20-c57373d08990,,"Untitled Stop",35.114305,-80.698679
+remix_e2b9b5d2-db79-41f5-8d45-712e275c0625,,"Untitled Stop",35.110932,-80.698511
+remix_4f327913-dfcf-4337-b3a1-21d0e1f0caf8,,"Untitled Stop",35.109624,-80.702268
+remix_e1c42278-2e2e-4fc5-90aa-7d104afb23f3,,"Untitled Stop",35.107180,-80.701452
+remix_0fb6a19d-f01f-442a-a9c7-57b598d85fe4,,"Untitled Stop",35.103420,-80.631637
+remix_ed5e4cd9-cb1e-4f9c-ae13-e068d05e90e1,,"Untitled Stop",35.101612,-80.634965
+remix_ec95d507-3f41-4607-8a77-24c6fde31e1c,,"Untitled Stop",35.099260,-80.637845
+remix_1de536e5-d862-4849-8271-9ae30d8ddaf1,,"Untitled Stop",35.096886,-80.640666
+remix_967c4073-ba04-474c-8876-65921d28134e,,"Untitled Stop",35.094827,-80.643833
+remix_7e7e3b84-2562-45f5-bbd1-adee3e112cea,,"Untitled Stop",35.093360,-80.647436
+remix_63c3c67c-6dad-4bad-bafa-61f5aecd3dfa,,"Untitled Stop",35.091427,-80.650724
+remix_1b1457b5-8639-4e9d-9c22-714c5c1d2142,,"Untitled Stop",35.089191,-80.653732
+remix_92ceeeef-1e2b-4d21-8875-d02a37478635,,"Untitled Stop",35.086956,-80.656741
+remix_fa230447-5cf0-4c69-98cc-690c5d03c549,,"Untitled Stop",35.084721,-80.659749
+remix_0d4ee9e7-2c1a-41ed-aa41-b0a07aaa6ae3,,"Untitled Stop",35.082421,-80.662495
+remix_34fc8411-9926-468a-bbdd-afe505ddff37,,"Untitled Stop",35.080010,-80.665291
+remix_f080f004-8ebd-442a-8d84-3a62023c4066,,"Untitled Stop",35.079685,-80.667986
+remix_4b441cf9-a953-498c-ad88-31258bc8dc2e,,"Untitled Stop",35.082205,-80.669539
+remix_79ab1387-d443-42c9-8a61-bc0d316f40a8,,"Untitled Stop",35.084962,-80.670915
+remix_35329ad3-ee25-4a51-b7a7-9e83f693525f,,"Untitled Stop",35.087863,-80.671831
+remix_12221802-e36a-4bab-9e83-547573542d9f,,"Untitled Stop",35.090642,-80.673274
+remix_ee30e96e-a2d7-4a21-b00d-69023e0a23bb,,"Untitled Stop",35.092741,-80.676441
+remix_8ce88d0f-9b66-4b22-85e6-2ddd40294929,,"Untitled Stop",35.095045,-80.679448
+remix_7f9c19ad-ccbc-4122-bcb5-7613511d315f,,"Untitled Stop",35.096678,-80.676566
+remix_ae77b22e-3f4d-4f02-b904-e2b8016d138f,,"Untitled Stop",35.097778,-80.676455
+remix_1f877a3f-2674-42f4-93be-1c0cd076103a,,"Untitled Stop",35.095013,-80.679566
+remix_71e45e88-5046-4739-b882-e3b91a4e0ce8,,"Untitled Stop",35.092632,-80.676572
+remix_7bca694c-818d-4ebd-95c6-1978d905442d,,"Untitled Stop",35.090454,-80.673351
+remix_b417ade3-c64d-47e3-b66a-014c9d2f99e0,,"Untitled Stop",35.087377,-80.671869
+remix_bf8a4e62-246f-49e6-9273-63e7118bfc8e,,"Untitled Stop",35.084070,-80.670768
+remix_1ad9a882-b2ed-41e6-9830-51cc1e643e86,,"Untitled Stop",35.080888,-80.669370
+remix_d9103572-b743-42fb-8e74-619a17fe6724,,"Untitled Stop",35.078747,-80.666509
+remix_06758de6-2421-4d77-b329-0736c9cd8043,,"Untitled Stop",35.081225,-80.663636
+remix_0965609e-ad4c-40d3-8b7b-fea8c08e4201,,"Untitled Stop",35.083646,-80.660688
+remix_cf4cea96-58bb-41ee-ada8-a16602ababc9,,"Untitled Stop",35.085870,-80.657584
+remix_940e848e-ba93-48e0-8cec-47ecfe01ed15,,"Untitled Stop",35.088033,-80.654352
+remix_11fd83c2-1941-4204-b9c0-f8c8cddc280e,,"Untitled Stop",35.090635,-80.651628
+remix_ff8c5bea-23c8-4e5e-895f-40d034343546,,"Untitled Stop",35.092828,-80.648494
+remix_39a417e3-8d84-4be7-84e7-0397f8c25338,,"Untitled Stop",35.094190,-80.644669
+remix_b79f3831-acd0-48c4-8a82-da324dded403,,"Untitled Stop",35.096132,-80.641229
+remix_73c2a38d-e8e7-4dd6-b839-7c6000df65d0,,"Untitled Stop",35.098509,-80.638215
+remix_a174bf32-74f9-41ce-918e-536763c02f52,,"Untitled Stop",35.101047,-80.635447
+remix_048f5e3c-3f03-4a5b-9d1e-ed0b8053359d,,"Untitled Stop",35.103147,-80.632178
+remix_97140bf0-cdeb-454a-a4ba-3da12eb11bd3,,"Untitled Stop",35.238573,-81.041408
+remix_9d8afdc1-b024-43b8-a041-7ebdf8d5395e,,"Untitled Stop",35.235091,-81.040606
+remix_1131c7d1-4bac-44dc-b635-432fb1950cfa,,"Untitled Stop",35.235284,-81.036693
+remix_d040aa83-1c37-4742-8796-5a5e25cf3066,,"Untitled Stop",35.237537,-81.033423
+remix_d98d7688-a6c9-44ee-9769-d375200eaf4b,,"Untitled Stop",35.240549,-81.031315
+remix_d7919286-88e9-4f21-ac2a-ea469aec7b15,,"Untitled Stop",35.244030,-81.031498
+remix_b74b7d89-6bb0-4f8a-9a7b-d4fb98d3d670,,"Untitled Stop",35.247455,-81.030988
+remix_29364afd-87b5-4d5d-a286-ce612a93eaa6,,"Untitled Stop",35.250552,-81.029113
+remix_4e0149f8-001e-4394-a696-e6ee8e883bca,,"Untitled Stop",35.252217,-81.031202
+remix_7b5f8502-858e-4672-ba1a-f533391b27e2,,"Untitled Stop",35.252581,-81.035453
+remix_febfdcbc-169b-41e8-b03e-f2d8748df0b9,,"Untitled Stop",35.253849,-81.038045
+remix_a3ca9c69-19fd-4855-adec-f72084e74229,,"Untitled Stop",35.255345,-81.041109
+remix_8a7b492b-b74f-4e10-88f3-fb997c787262,,"Untitled Stop",35.257057,-81.043534
+remix_6e76fa0a-b034-4379-b74c-7abb28630e53,,"Untitled Stop",35.260003,-81.044781
+remix_7d095e00-501b-46b3-9820-761ccc3ace05,,"Untitled Stop",35.262752,-81.044450
+remix_f05727b6-b1c3-457b-9b7b-6fb602130aba,,"Untitled Stop",35.262330,-81.042786
+remix_acb04e3d-9984-4a28-9502-2974a16d0929,,"Untitled Stop",35.262639,-81.044862
+remix_e92b9a2e-f52b-4d70-8836-608c483b4355,,"Untitled Stop",35.259384,-81.044658
+remix_826705eb-ca8a-4a25-a3d7-8f19f55fccaf,,"Untitled Stop",35.256154,-81.043411
+remix_08352e35-7fbd-4b63-9860-c50896cae11e,,"Untitled Stop",35.254942,-81.040208
+remix_274ab80f-e092-40c3-bf5b-f7cb4ed1d678,,"Untitled Stop",35.253397,-81.037232
+remix_d642e1fb-3ed7-470c-bbdb-cdc1330a22c8,,"Untitled Stop",35.252184,-81.034831
+remix_68838f0e-b6e8-42c2-ac8f-566f962c48ef,,"Untitled Stop",35.251836,-81.030568
+remix_4b4a4877-8382-4fe6-9d60-9a17044728f9,,"Untitled Stop",35.249995,-81.029712
+remix_89803138-bb96-44f8-bcb8-eaa60769f5a9,,"Untitled Stop",35.246972,-81.031306
+remix_e62c4db6-759d-44ae-ae71-48a107320f9a,,"Untitled Stop",35.243412,-81.031603
+remix_5173e1ed-ed79-4a64-9667-18cbc31dae2c,,"Untitled Stop",35.240223,-81.031595
+remix_88e51ca6-1f03-4e1e-8574-8def0e67257f,,"Untitled Stop",35.237446,-81.033812
+remix_9bbea744-d43b-4e49-94dc-234f5f86c1e8,,"Untitled Stop",35.236200,-81.035441
+remix_d083af25-4cbc-4888-b176-d10dbaa94437,,"Untitled Stop",35.235303,-81.037268
+remix_f6a2a4ee-1454-4e5f-9e44-b011e374b9e2,,"Untitled Stop",35.235268,-81.040477
+01190,,"Ashley Rd & Tuckaseegee Rd",35.244198,-80.895512
+32736,,"Tuckaseegee Rd & Ashley Rd",35.245163,-80.896349
+32730,,"Tuckaseegee Rd & Edgewood Rd",35.246215,-80.898848
+09660,,"Edgewood Rd & Major St",35.249012,-80.899298
+32150,,"Thriftwood Dr & Freedom Dr",35.254544,-80.903039
+32120,,"Thriftwood Dr & Interurban Ave",35.259009,-80.903834
+13150,,"Interurban Ave & Westridge Dr",35.260762,-80.903332
+12275,,"Interurban Ave & Willard St",35.261756,-80.901692
+12271,,"Interurban Ave & Hovis Rd",35.262858,-80.899320
+remix_d3703c86-091d-47ec-8803-c31cb75919cd,,"Untitled Stop",35.263941,-80.898179
+12340,,"Hovis Rd & Tarheel Rd",35.265727,-80.898342
+12350,,"Hovis Rd & Gulf Dr",35.268302,-80.898703
+02270,,"Bealer Rd & Hovis Rd",35.269466,-80.899488
+02280,,"Bealer Rd & Terminal St",35.269235,-80.901419
+02290,,"Bealer Rd & Exchange St",35.269328,-80.904776
+remix_782b8097-c092-434f-8846-8f81d56d787d,,"Untitled Stop",35.272233,-80.905850
+remix_81098910-5b54-4e36-abee-424dcf207766,,"Untitled Stop",35.272381,-80.909860
+46449,,"Toddville Rd & CSX Way",35.271146,-80.917331
+45826,,"Toddville Rd & Eneida Sue Dr",35.266846,-80.919743
+45828,,"Toddville Rd & Freedom Dr",35.263932,-80.920905
+45830,,"Freedom Dr & Eagles Landing Dr",35.265793,-80.927231
+46420,,"Freedom Dr & McDonald Rd",35.268087,-80.931297
+45832,,"Freedom Dr & Wingate Dr",35.273116,-80.935332
+remix_02ccd8b5-3f43-4829-a95d-75388dd62b64,,"Untitled Stop",35.275594,-80.938116
+remix_ef19ab62-839b-4f88-bbad-510a4f46f897,,"Untitled Stop",35.275845,-80.942459
+remix_5eef4c3f-93dc-409a-9ea4-5fc87dd6d3ff,,"Untitled Stop",35.275405,-80.946830
+remix_88001a8d-50ea-43ee-a9a6-10175711ad07,,"Untitled Stop",35.274982,-80.951202
+remix_d0cd596f-8c37-4d81-8d67-0854687d8fe1,,"Untitled Stop",35.274533,-80.955571
+remix_e24cc64a-8171-475a-bed8-faa327850733,,"Untitled Stop",35.274059,-80.959927
+remix_f2f00de0-42aa-4851-a379-d0a6a072bd24,,"Untitled Stop",35.273746,-80.964298
+remix_bd2ce98d-84d9-453c-a08f-eea6026ad5a3,,"Untitled Stop",35.273565,-80.967600
+remix_c3e0db3a-6d74-4b45-b44c-3bb92c423c6d,,"Untitled Stop",35.273640,-80.963514
+remix_dd30cbff-e8d8-4cba-861b-4efdffd48746,,"Untitled Stop",35.273660,-80.961966
+remix_5ec45875-6aa8-46fd-a596-94248595cddb,,"Untitled Stop",35.274082,-80.958373
+remix_a74515f1-3168-4d54-b658-eb60f9d952c8,,"Untitled Stop",35.274481,-80.954555
+remix_e513de91-3d13-4c5c-bf90-2c2566821dd1,,"Untitled Stop",35.274889,-80.950725
+remix_36c1b696-6bc4-47f5-bc72-45902677f512,,"Untitled Stop",35.275245,-80.946889
+remix_95064cd0-b1d8-4951-a508-f529b5984c96,,"Untitled Stop",35.275629,-80.943056
+remix_648d76bd-f4aa-458c-b53a-4528dae994fc,,"Untitled Stop",35.275792,-80.939270
+52440,,"Freedom Dr & Old Little Rock Rd",35.274220,-80.936336
+45831,,"Freedom Dr & Wingate Dr",35.273261,-80.935591
+remix_369f84b6-6439-4743-860c-8afe736aa2e9,,"Untitled Stop",35.270575,-80.933588
+46419,,"Freedom Dr & Elmwood Cir",35.267833,-80.931595
+remix_520db198-2e0a-4fe3-828c-a71b4ee19744,,"Untitled Stop",35.266656,-80.929688
+52400,,"Freedom Dr & Eagles Landing Dr",35.265795,-80.927541
+45833,,"Freedom Dr & Teddington Dr",35.265154,-80.925297
+remix_46117591-4b18-4dc5-86a2-c7fda85b2aaf,,"Untitled Stop",35.264087,-80.922751
+45835,,"Toddville Rd & Freedom Dr",35.264245,-80.920549
+45837,,"Toddville Rd & Brooktree Dr",35.267714,-80.919616
+remix_3808bf08-472c-4ff2-831e-6d4e53d8653a,,"Untitled Stop",35.269606,-80.918950
+46500,,"Toddville Rd & CSX Way",35.271149,-80.917131
+remix_acd964a2-1e1b-41a0-a33d-43035007caf8,,"Untitled Stop",35.272233,-80.909839
+remix_8118d79d-f5da-4cd4-bae0-71988a018146,,"Untitled Stop",35.272139,-80.906029
+remix_b5fadf0e-98f2-4601-9a96-0b6feb24287e,,"Untitled Stop",35.269199,-80.904959
+12320,,"Hovis Rd & Bradford Dr",35.262723,-80.896009
+03460,,"Bradford Dr & Roadway St",35.261887,-80.896149
+03480,,"Bradford Dr & Reliance St",35.258232,-80.897171
+03590,,"Bradford Dr & Key St",35.256661,-80.897289
+03610,,"Bradford Dr & Hoover St",35.255079,-80.897561
+03635,,"Bradford Dr & Freedom Dr",35.251270,-80.898338
+11096,,"Freedom Dr & Edgewood Rd",35.249852,-80.898421
+remix_48d95789-adcb-4096-8490-399e73a90e95,,"Untitled Stop",35.247779,-80.896370
+11070,,"Freedom Dr & Ashley Rd",35.245968,-80.894116
+01200,,"Ashley Rd & Freedom Dr",35.244109,-80.895235
+24030,,"Randolph Rd & Sharon Amity Rd",35.176515,-80.798656
+23990,,"Randolph Rd & Greenwich Rd",35.178038,-80.800658
+23960,,"Randolph Rd & Woodlark Ln",35.179429,-80.802646
+23910,,"Randolph Rd & Canterbury Rd",35.181870,-80.805532
+23790,,"Randolph Rd & Wendwood Ln",35.188117,-80.810083
+03180,,"Billingsley Rd & Randolph Rd",35.190485,-80.808893
+03190,,"Billingsley Rd @ 431",35.190433,-80.805735
+03200,,"Billingsley Rd & Cascade Cir",35.190676,-80.803853
+09970,,"Ellington St & Billingsley Rd",35.191357,-80.801771
+09960,,"Ellington St & Wheatley Ave",35.193120,-80.802116
+35080,,"Wheatley Ave & Ellington St",35.194186,-80.802698
+35050,,"Wheatley Ave & Bunche Dr",35.194422,-80.804558
+24580,,"Rodman St & Burkland Dr",35.195699,-80.804446
+26490,,"Sam Drenan Rd & Leroy St",35.197617,-80.806702
+15780,,"Monroe Rd & Puhlman St",35.204212,-80.805083
+15800,,"Monroe Rd & Alcott St",35.204077,-80.802455
+remix_1194d876-d99b-41d1-b57b-141e74647841,,"Untitled Stop",35.203410,-80.796536
+15830,,"Monroe Rd & Fortune St",35.202512,-80.799401
+15810,,"Monroe Rd & Briar Creek Rd",35.204227,-80.802381
+15790,,"Monroe Rd & Colonnade Dr",35.204326,-80.804158
+07320,,"Dunn Ave & Heflin St",35.203010,-80.805708
+29160,,"Skyland Ave & Dunn Ave",35.202395,-80.804668
+29150,,"Skyland Ave @ 417",35.201603,-80.805253
+29140,,"Skyland Ave & Marney Ave",35.200485,-80.806139
+29130,,"Skyland Ave & Sam Drenan Rd",35.199245,-80.807109
+26470,,"Sam Drenan Rd & Stancill Pl",35.197465,-80.806738
+35060,,"Wheatley Ave & Bunche Dr",35.194259,-80.803681
+35070,,"Wheatley Ave & Ellington St",35.194075,-80.802462
+09980,,"Ellington St & Wheatley Ave",35.192189,-80.802028
+09990,,"Ellington St & Billingsley Rd",35.191315,-80.801848
+45318,,"Billingsley Rd @ 411",35.190517,-80.805623
+45322,,"Billingsley Rd & Randolph Rd",35.190618,-80.809154
+23800,,"Randolph Rd & Meadowbrook Rd",35.187818,-80.810056
+23860,,"Randolph Rd & Canterbury Rd",35.182358,-80.806142
+23940,,"Randolph Rd & Cheltenham Rd",35.179517,-80.803020
+11500,,"Greenwich Rd & Randolph Rd",35.178490,-80.800315
+06280,,"Colwick Rd & Greenwich Rd",35.177506,-80.798312
+40006,,"New Renaissance Way & West Blvd",35.207722,-80.919707
+20281,,"Morris Field Dr & CPCC Harris Campus Dr",35.216492,-80.921332
+16691,,"Morris Field Dr & Seymour Dr",35.220066,-80.914830
+remix_d1b07969-1767-4cac-aa62-a16cbbaaaf6a,,"Untitled Stop",35.224500,-80.911030
+remix_413bacd2-42d9-4666-8821-51db4b5fe06b,,"Untitled Stop",35.226634,-80.910429
+01270,,"Ashley Rd & Alleghany St",35.237569,-80.897293
+01300,,"Ashley Rd & Bullard St",35.235597,-80.897057
+35280,,"Wilkinson Blvd & Morris Field Dr",35.226444,-80.910532
+16690,,"Morris Field Dr & Seymour",35.220047,-80.915033
+20282,,"Morris Field Dr & Airport Center Pkwy",35.216641,-80.921518
+19740,,"Nobles Ave & Leake St",35.209532,-80.918458
+45818,,"Northlake Mall (1st stop)",35.350306,-80.854621
+45813,,"Northlake Mall (2nd Stop)",35.349871,-80.854054
+45854,,"Statesville Rd & Metroment Pkwy",35.352775,-80.840757
+46660,,"Statesville Rd & Alexandriana Rd",35.368503,-80.840521
+49841,,"Alexandriana Rd & Northlake Auto Plaza Bv",35.370297,-80.834105
+60240,,"Old Statesville & Alexandriana Rd",35.371600,-80.832188
+49854,,"Old Statesville Rd & Hambright Rd",35.376537,-80.833271
+49860,,"Old Statesville Rd & Verhoeff Dr",35.395310,-80.836120
+41298,,"Old Statesville Rd @ Monteith Place",35.399374,-80.838437
+41296,,"Old Statesville Rd & Mt Holly Huntersville Rd",35.405366,-80.841498
+41294,,"Old Statesville Rd & Mullen St",35.408206,-80.842226
+41292,,"Old Statesville Rd @ Huntersville Municipal Bldg",35.410122,-80.842701
+59550,,"Gilead & Old Statesville",35.410869,-80.843735
+41450,,"Gilead Rd & Hillcrest Dr",35.410738,-80.845947
+41425,,"Gilead Rd & Commerce Centre Dr",35.410566,-80.852816
+11015,,"Huntersville Gateway Park & Ride",35.413539,-80.857071
+40745,,"Statesville Rd & Huntersville Commons Dr",35.416139,-80.856731
+40754,,"Statesville Rd @ Deer Hill Apts",35.418617,-80.857507
+40755,,"Statesville Rd & Bankside Dr",35.427608,-80.862147
+40752,,"Statesville Rd & Northdowns Ln",35.430955,-80.863745
+36890,,"Statesville Rd @ NorthPoint Presbyterian",35.437145,-80.865172
+49310,,"Statesville Rd & Holly Point Dr",35.440104,-80.865145
+41271,,"Statesville Rd & Northcross Center Ct",35.445896,-80.866153
+41268,,"Statesville Rd & Caldwell Commons Cir",35.450807,-80.866961
+41265,,"Statesville Rd & Bailey Rd",35.457294,-80.868134
+60365,,"Washam Potts & Westmoreland",35.463913,-80.866510
+60366,,"Washam Potts & Ruffner",35.467017,-80.863554
+41264,,"Washam Potts & Coachman's  Trace",35.470632,-80.859620
+60367,,"Washam Potts & Sherril",35.473646,-80.857163
+41262,,"Washam Potts & Barnette",35.474937,-80.855199
+60368,,"Main & Smith",35.476249,-80.854479
+40210,,"Main & Hickory",35.479529,-80.856951
+40230,,"Main St & Railroad St",35.482640,-80.858208
+40250,,"Main St & Legion St",35.487366,-80.858397
+40270,,"Main St & Pecan St",35.489781,-80.857895
+40290,,"Main St & Cornelius St",35.491861,-80.857418
+52191,,"Main St & Eugenia St",35.495087,-80.853163
+52199,,"Main St & Walnut St",35.496972,-80.851119
+41959,,"Main St @ Davidson Town Hall",35.497693,-80.849598
+40330,,"Main St & Concord Rd",35.498780,-80.848573
+40340,,"Main St & Griffith St",35.501117,-80.847617
+11541,,"Griffith St & Watson St",35.502661,-80.850202
+46554,,"Griffith St & Lakeside Ave",35.502996,-80.856303
+46441,,"Griffith St & Grocery Ln",35.502300,-80.860837
+46497,,"Davidson Gateway Dr & Griffith St",35.501495,-80.864487
+46454,,"Davidson Gateway Dr & Southeast Dr",35.499349,-80.862996
+41252,,"Davidson Gateway Dr & Jetton St",35.499015,-80.860463
+40590,,"Jetton St & Park Dr",35.498262,-80.856731
+41251,,"Gamble St & Walnut St",35.498606,-80.853571
+46455,,"Sloan St & Eden St",35.500959,-80.852163
+11540,,"Griffith St & Watson St",35.502557,-80.849951
+41500,,"Griffith St & Main St",35.502088,-80.848105
+41259,,"Main St & Griffith St",35.501414,-80.847618
+40320,,"Main St & Concord Rd",35.498745,-80.848728
+41258,,"Main St @ Davidson Town Hall",35.497738,-80.849569
+40300,,"Main St & Catawba Ave",35.495862,-80.852940
+52190,,"Main St & Eugenia St",35.494742,-80.853368
+40280,,"Main St & Cornelius St",35.491564,-80.857596
+40260,,"Main St & McCall St",35.489786,-80.857945
+40240,,"Main St & Legion St",35.487443,-80.858446
+40220,,"Main St & Railroad St",35.482595,-80.858281
+40200,,"Main & Hickory",35.479458,-80.856950
+60369,,"Main & Smith",35.476283,-80.854680
+41261,,"Washam Potts & Tryon",35.474993,-80.855327
+60370,,"Washam Potts & Shevington",35.473694,-80.857333
+60371,,"Washam Potts & Heartland",35.472186,-80.858553
+41263,,"Washam Potts & Coachman's Trace",35.470674,-80.859712
+60372,,"Washam Potts and Oakbranch",35.466556,-80.864308
+60373,,"Washam Potts & Westmoreland",35.463851,-80.866862
+41266,,"Statesville Rd & Bailey Rd",35.457715,-80.868529
+41267,,"Statesville Rd & Caldwell Commons Cir",35.451009,-80.867073
+41269,,"Statesville Rd & Caldwell Creek Dr",35.445893,-80.866443
+49311,,"Statesville Rd & Holly Point Dr",35.439897,-80.865496
+59610,,"Statesville Rd & Rich Hatchet Rd",35.436623,-80.865414
+40751,,"Statesville Rd & Northdowns Ln",35.431208,-80.863952
+40756,,"Statesville Rd & Bankside Dr",35.427571,-80.862203
+40753,,"Statesville Rd @ Deer Hill Apts",35.418856,-80.857834
+40743,,"Statesville Rd & Shiv Dr",35.416283,-80.856945
+41420,,"Gilead Rd & Marguerite Ln",35.410428,-80.851472
+41440,,"Gilead Rd & Hillcrest Dr",35.410662,-80.846432
+41921,,"Old Statesville Rd @ Huntersville Municipal Bldg",35.410076,-80.842872
+41293,,"Old Statesville Rd & Mullen St",35.407112,-80.842147
+41295,,"Old Statesville Rd & Mt Holly Huntersville Rd",35.404591,-80.841110
+41297,,"Old Statesville Rd @ Monteith Place",35.399339,-80.838574
+49861,,"Old Statesville Rd & Verhoeff Dr",35.395072,-80.836115
+49855,,"Old Statesville Rd & Hambright Rd",35.377836,-80.833722
+60241,,"Old Statesville & Alexandriana Rd",35.371872,-80.832685
+49840,,"Alexandriana Rd & Northlake Auto Plaza Bv",35.370437,-80.833856
+46665,,"Statesville Rd & Alexandriana Rd",35.368400,-80.840918
+45822,,"Statesville Rd & Metroment Pkwy",35.354195,-80.840750
+45838,,"Statesville Rd & WT Harris Blvd",35.349928,-80.841279
+46439,,"Northlake Centre Pkwy & Point O'Woods Dr",35.349580,-80.856913
+46331,,"Ballantyne Corporate Pl & Johnston Rd",35.061680,-80.852937
+remix_cebb99c9-93f2-47fe-8675-e7aa01d2fb78,,"Untitled Stop",35.061141,-80.849103
+remix_8b47a872-80b4-4c13-bc3a-3fe474482404,,"Untitled Stop",35.059740,-80.845433
+46332,,"Ballantyne Corporate Pl & Ballantyne Commons Pkwy",35.056929,-80.843599
+remix_51032112-d7c3-4c56-9866-deed459c71e6,,"Untitled Stop",35.054697,-80.841791
+remix_dcec1f1b-6a54-4ec8-b823-f97dc83c635c,,"Untitled Stop",35.053942,-80.837770
+remix_f4110e96-c910-46ed-80ee-24a46a5221f4,,"Untitled Stop",35.055275,-80.833941
+remix_00e93b95-d2ac-4286-87fb-d53015edf27c,,"Untitled Stop",35.056029,-80.830651
+remix_a68c419a-1a23-4af6-83b3-dfff1994ad07,,"Untitled Stop",35.056759,-80.826607
+remix_9b67ae15-2483-4f13-90f7-df5ce31a13b3,,"Untitled Stop",35.056357,-80.822540
+remix_60a93a23-cf97-4980-97f9-6c5c414cc78d,,"Untitled Stop",35.056576,-80.818401
+45601,,"Rea Rd @ St. Matthews Church Park & Ride",35.056231,-80.812608
+remix_f74297bb-f828-4d6a-b0bd-2d4f37256e7a,,"Untitled Stop",35.053261,-80.811196
+remix_81ea77a3-2f0e-47d2-a660-f9e00ce5d270,,"Untitled Stop",35.050258,-80.809259
+remix_b006168e-7e60-4a05-9011-e7c93204fe9c,,"Untitled Stop",35.046660,-80.808443
+remix_040cf48f-61b2-4a66-b70d-a07cb41d0b26,,"Untitled Stop",35.043273,-80.808180
+remix_1aa6f391-b23e-423f-9182-8351b47fb7d5,,"Untitled Stop",35.039836,-80.807206
+remix_12d1e3fe-13a7-4f87-81fe-6f3311c922eb,,"Untitled Stop",35.036921,-80.805059
+remix_1684fb3f-ce2e-47e9-8bc5-f9ee76a50359,,"Untitled Stop",35.033902,-80.805485
+remix_9c301257-0778-4f02-b8bf-738da6e08bd8,,"Untitled Stop",35.043231,-80.791828
+remix_8f6a1bc6-c9ea-42fb-a627-a9b76bea1c49,,"Untitled Stop",35.045733,-80.789075
+remix_3f9f64b7-cbc1-4ebe-88b6-99497607d2fa,,"Untitled Stop",35.046594,-80.785099
+remix_692c53a7-7a8a-460f-b07b-c95ae3e12865,,"Untitled Stop",35.047038,-80.780918
+remix_cd63cf88-e3d3-4ea4-ae05-1f1d625fd090,,"Untitled Stop",35.049061,-80.777521
+remix_34527b10-e3d2-4648-82f3-02beeddc459f,,"Untitled Stop",35.050292,-80.773708
+remix_46641565-e200-42ab-9213-4c00894a874d,,"Untitled Stop",35.050925,-80.769572
+remix_efc2cf8f-a868-411e-89d7-3a415f3958e5,,"Untitled Stop",35.050632,-80.765612
+remix_f997980b-12ab-40eb-8d08-16bffc56f37b,,"Untitled Stop",35.037030,-80.804767
+remix_7d521276-af13-4309-8259-01626f1f4989,,"Untitled Stop",35.040083,-80.806967
+remix_66f7a76e-5ebb-46a2-a99b-c9c58f4a22d5,,"Untitled Stop",35.043300,-80.807865
+remix_590baea1-e76c-4c2c-abac-5556309962ed,,"Untitled Stop",35.046815,-80.808082
+remix_b6355d87-b7fb-499e-bee1-6b8b6e63c8ae,,"Untitled Stop",35.050282,-80.808930
+remix_178d1047-cb1c-4647-b6a2-f40d011099aa,,"Untitled Stop",35.053394,-80.810944
+remix_a60f42b0-df07-45b4-80d8-ca5f9ff6c682,,"Untitled Stop",35.056799,-80.818736
+remix_46566d59-69b9-4d74-bb72-e5bf99c5071e,,"Untitled Stop",35.056724,-80.822939
+remix_5ff51a8a-b647-457b-be31-72a40d64dae7,,"Untitled Stop",35.056949,-80.827241
+remix_1fb7d4bf-ec77-4cfa-9427-eb46efb49c6b,,"Untitled Stop",35.056174,-80.831463
+remix_34f03586-8e89-4a07-8e47-19dafb4edcac,,"Untitled Stop",35.054167,-80.838790
+remix_9531d67d-22aa-41ec-aa7f-fc961ea37c6a,,"Untitled Stop",35.055130,-80.842022
+44302,,"Ballantyne Commons Pkwy & Ballantyne Medical Pl",35.056106,-80.855451
+44305,,"Ballentyne Corporate Pl & Harney Dr",35.058826,-80.857389
+46330,,"Ballantyne Corporate Pl & Brixham Hill Ave",35.060504,-80.855617
+45947,,"Tryon St & Tom Hunter Rd",35.276871,-80.766772
+60291,,"Tryon St & Owen Blvd",35.274438,-80.767202
+00720,,"Arrowhead Dr & Countryside Dr",35.271372,-80.769666
+00750,,"Arrowhead Dr & Elgywood Ln",35.271276,-80.771512
+09680,,"Elgywood Ln & Blackhawk Rd",35.273202,-80.772171
+09695,,"Elgywood Ln & Canterwood Dr",35.274811,-80.772689
+04220,,"Canterwood Dr & Monteith Dr",35.275243,-80.773600
+16650,,"Monteith Dr & Canterwood Dr",35.274325,-80.774176
+11230,,"Georgetown Dr & Heatherbrooke Ave",35.273463,-80.774831
+11250,,"Georgetown Dr & Spring Garden Ln",35.272988,-80.776885
+30230,,"Spring Garden Ln & Derrydowne Dr",35.272241,-80.777237
+30240,,"Spring Garden Ln & Snow White Ln",35.270330,-80.777681
+45955,,"Bilmark Ave & Hughes Dr",35.271285,-80.779605
+45820,,"Pondella Dr & Bilmark Ave",35.273147,-80.782482
+45965,,"Pondella Dr & Kirt Ct",35.274522,-80.781104
+46393,,"Rosada Ave & Echo Glen Rd",35.275331,-80.782194
+09420,,"Echo Glen Rd & Bilmark Ave",35.273650,-80.783786
+33080,,"Valen Way & Mt Kisco Dr",35.272886,-80.785103
+45975,,"Mt Kisco Dr & Squirrel Hill Rd",35.271751,-80.786435
+45985,,"Squirrel Hill Rd & Thornwood Rd",35.270247,-80.787367
+45977,,"Snow White Ln & Thornwood Rd",35.268791,-80.786966
+45979,,"Cinderella Rd & Hidden Valley Rd",35.265396,-80.788755
+05750,,"Cinderella Rd & Munsee St",35.264510,-80.789921
+05730,,"Cinderella Rd & Candystick Ln",35.264696,-80.791651
+36090,,"Yuma St & Cinderella Rd",35.265728,-80.792088
+36100,,"Yuma St & Gondola Ave",35.266423,-80.791394
+36110,,"Yuma St & Argyle Dr West",35.268089,-80.791890
+36120,,"Yuma St & Hidden Valley Rd",35.270551,-80.792658
+31060,,"Sugar Creek Rd & Munsee St",35.270287,-80.794324
+31030,,"Sugar Creek Rd & Rutgers Ave",35.268511,-80.794707
+31010,,"Sugar Creek Rd & Cinderella Rd",35.265728,-80.795058
+30990,,"Sugar Creek Rd & Hondures Dr",35.264089,-80.795129
+30970,,"Sugar Creek Rd & Glory St",35.262046,-80.795232
+30950,,"Sugar Creek Rd & Tryon St",35.260173,-80.795153
+30951,,"Sugar Creek @ 126",35.256939,-80.794559
+30952,,"Sugar Creek @ Greensboro St",35.255034,-80.793460
+60280,,"Sugar Creek Station Bay",35.251817,-80.793596
+30942,,"Sugar Creek & Greensboro St",35.255447,-80.793504
+30941,,"Sugar Creek @ 127",35.257013,-80.794349
+30940,,"Sugar Creek Rd & Tryon St",35.259756,-80.794916
+30960,,"Sugar Creek Rd & Rolling Hill Dr",35.261856,-80.795087
+30980,,"Sugar Creek Rd & Hondures Dr",35.263168,-80.795002
+31000,,"Sugar Creek Rd & Sofley Rd",35.264933,-80.794930
+31020,,"Sugar Creek Rd & Argyle Dr West",35.268068,-80.794617
+31040,,"Sugar Creek Rd & Munsee St",35.269601,-80.794302
+31070,,"Sugar Creek Rd & Hidden Valley Rd",35.272200,-80.793753
+31080,,"Sugar Creek Rd & Reagan Dr",35.275220,-80.793367
+32490,,"Tom Hunter Rd & Reagan Dr",35.278874,-80.790164
+32480,,"Tom Hunter Rd & Vancouver Dr",35.277258,-80.789196
+32470,,"Tom Hunter Rd & White Plains Rd",35.276857,-80.788048
+32455,,"Tom Hunter Rd & Echo Glen Rd",35.278177,-80.782549
+45925,,"Tom Hunter Rd & Hidden Forest Dr",35.278509,-80.779643
+45935,,"Tom Hunter Rd & Monteith Dr",35.278777,-80.776006
+45945,,"Tom Hunter Rd & Canterwood Dr",35.278477,-80.769317
+60270,,"Stumptown Dr & Statesville Rd",35.422310,-80.860778
+46578,,"Stumptown Rd & Bytham Castle Dr",35.426242,-80.872252
+46580,,"Northcross Dr & Bridgeford Ln",35.431732,-80.872188
+46582,,"Northcross Dr & Andy Dr",35.440887,-80.873936
+40350,,"Sam Furr Rd & Birkdale Commons Pkwy",35.443477,-80.880379
+40370,,"Sam Furr Rd & Sedgebrook Ln",35.443970,-80.885770
+60141,,"Kenton Cir & West Kenton Dr",35.444791,-80.890222
+40372,,"Kenton Dr & Waterview Dr",35.447426,-80.891083
+45608,,"Catawba Ave & Bluff Point Rd",35.453734,-80.888314
+45609,,"Catawba Ave & Westmoreland Rd",35.460855,-80.888574
+40450,,"Catawba Ave & Harborside Dr",35.465429,-80.888681
+46334,,"Catawba Ave & Nantz Rd",35.469009,-80.890201
+45614,,"Catawba Ave & Jetton Rd",35.476531,-80.891325
+59500,,"Cornelius Park & Ride",35.480211,-80.882614
+04940,,"Catawba Ave & Ferry St",35.484076,-80.869016
+04932,,"Catawba Ave & Washam St",35.483168,-80.864884
+45127,,"Catawba Ave & Meridian St",35.482383,-80.861534
+60364,,"Lawn Market & Lovers Lawn",35.480486,-80.855688
+46451,,"Beaty St @ 866",35.509161,-80.844006
+46452,,"Beaty St & Barra Row",35.509098,-80.845193
+46453,,"Beaty St & Lakeview Ave",35.505776,-80.852423
+45126,,"Catawba Ave & Mulberry St",35.482438,-80.861362
+04933,,"Catawba Ave & Washam St",35.483147,-80.864419
+04935,,"Catawba Ave & Ferry St",35.484074,-80.869839
+40530,,"Catawba Ave & Torrence Chapel Rd",35.482999,-80.878678
+46333,,"Catawba Ave & Nantz Rd",35.469022,-80.890365
+40440,,"Catawba Ave & Harborside Dr",35.463686,-80.888847
+40687,,"Catawba Ave & Kings Point Dr",35.460498,-80.888772
+45606,,"Catawba Ave & Bluff Point Rd",35.453834,-80.888549
+40373,,"Kenton Dr & Waterview Dr",35.447608,-80.891316
+60140,,"Kenton Cir & West Kenton Dr",35.444844,-80.890358
+40360,,"Sam Furr Rd & Sedgebrook Ln",35.443761,-80.885635
+40355,,"Sam Furr Rd & Birkdale Commons Pkwy",35.443272,-80.880450
+46583,,"Northcross Dr & Andy Dr",35.440689,-80.874066
+46581,,"Northcross Dr & Bridgeford Ln",35.432555,-80.871385
+46579,,"Stumptown Dr & Bytham Castle Dr",35.426185,-80.872633
+45000,,"Briar Creek Rd & Commonwealth Ave",35.210158,-80.794195
+03705,,"Briar Creek Rd & Creighton Dr",35.211396,-80.792023
+11430,,"Green Oaks Ln & Eastcrest Dr",35.212761,-80.793037
+remix_65de6e1c-4165-4f1b-afd0-54669fb12f36,,"Untitled Stop",35.214217,-80.793752
+remix_c0d4cbb6-d349-4ca7-8336-3693c68bde6c,,"Untitled Stop",35.216547,-80.793273
+05350,,"Central Ave & Wembley Dr",35.217170,-80.792206
+05340,,"Central Ave & Briar Creek Rd",35.216363,-80.788066
+05410,,"Central Ave & Carolyn Dr",35.215830,-80.784187
+45437,,"Central Ave & Eastway Dr",35.215597,-80.781520
+05430,,"Central Ave & Medford Dr",35.215434,-80.779678
+05440,,"Central Ave & Temple Ln",35.215274,-80.777337
+05480,,"Central Ave & Sheridan Dr",35.214632,-80.773864
+05500,,"Central Ave & Norland Rd",35.214049,-80.771654
+05520,,"Central Ave & Progress Ln",35.213364,-80.768311
+05550,,"Central Ave & Rosehaven Dr",35.212341,-80.763839
+05560,,"Central Ave @ 4908",35.211522,-80.760617
+05570,,"Central Ave & Winterfield Pl",35.210720,-80.758948
+45106,,"Eastland Transit Center- Bay B",35.208231,-80.753377
+05580,,"Central Ave & Winterfield Pl",35.211078,-80.759224
+05540,,"Central Ave & Rosehaven Dr",35.212452,-80.763620
+05510,,"Central Ave & Progress Ln",35.213542,-80.768372
+05470,,"Central Ave & Kilborne Dr",35.214282,-80.771901
+05465,,"Central Ave & Medallion Dr",35.214989,-80.774615
+05450,,"Central Ave & Temple Ln",35.215446,-80.777401
+38620,,"Central Ave & Eastway Dr",35.215623,-80.779910
+05420,,"Central Ave & Longfellow St",35.215874,-80.782842
+05400,,"Central Ave & Merry Oaks Rd",35.216104,-80.785884
+05370,,"Central Ave & Briar Creek Rd",35.216711,-80.789250
+05360,,"Central Ave & Eastcrest Dr",35.217282,-80.792283
+remix_65726f2a-eff5-4c57-8efe-2d3ac94b52b6,,"Untitled Stop",35.216563,-80.793478
+remix_019904b6-1998-47ce-a9aa-bac9be74bd4a,,"Untitled Stop",35.214164,-80.794166
+11440,,"Green Oaks Ln & Briar Creek Rd",35.212669,-80.793105
+03710,,"Briar Creek Rd & Creighton Dr",35.211789,-80.791713
+45864,,"Briar Creek Rd & Commonwealth Ave",35.210199,-80.794173
+remix_7a111372-78ac-4100-b033-a5458066f7a6,,"Untitled Stop",35.000637,-80.698047
+remix_00b08540-4a30-48cc-8fdb-4d22b0324bd6,,"Untitled Stop",35.001382,-80.698112
+remix_52c67c45-2fce-4181-9495-2b3e6e9d1b4c,,"Untitled Stop",35.003259,-80.698436
+remix_1ca278f6-7d08-4323-98cf-5bdb5eed0806,,"Untitled Stop",35.005644,-80.697792
+remix_33cf1e04-c1f1-4589-a7b4-9e1fc3b756e9,,"Untitled Stop",35.008521,-80.696952
+remix_80d73766-d0af-4013-a82f-35a972b0cbc4,,"Untitled Stop",35.011435,-80.696438
+remix_b959e0fa-4125-4512-b2f8-a27f054dd737,,"Untitled Stop",35.014367,-80.696301
+remix_2d2805ca-263c-4d59-98b3-2a2e06cbed98,,"Untitled Stop",35.017192,-80.695507
+remix_86d00c99-bb85-4db5-95bb-dcfdebdba0d2,,"Untitled Stop",35.019762,-80.693981
+remix_6eb7425c-036f-448a-8cc2-36fcac8064c6,,"Untitled Stop",35.021985,-80.692578
+remix_54443959-a040-4b34-9018-dad1ce89aa8b,,"Untitled Stop",35.024030,-80.691167
+remix_9392c5f3-e96a-4fc9-abaa-97adfd9c4696,,"Untitled Stop",35.026695,-80.690553
+remix_937b9faf-b62a-445f-812f-4355ebf445c4,,"Untitled Stop",35.029238,-80.689430
+remix_187c3500-290d-4f92-a397-d44ed78303f7,,"Untitled Stop",35.031419,-80.687639
+remix_32662ddb-46d1-4d09-afb8-073f023cfee2,,"Untitled Stop",35.033718,-80.685999
+remix_159b661f-02eb-41d5-a061-47ea631624d4,,"Untitled Stop",35.037098,-80.684676
+remix_a4550585-9ed8-4fcf-bb2d-a8d035cd6890,,"Untitled Stop",35.040615,-80.684290
+remix_ee0705f2-af49-4f41-afd4-1d58d599f363,,"Untitled Stop",35.044134,-80.684086
+remix_16dcd8ee-9eb8-48ec-8f1a-0b751626ae08,,"Untitled Stop",35.046467,-80.683961
+remix_dce75578-aa43-4090-bc58-cac72b24b544,,"Untitled Stop",35.048796,-80.683844
+remix_aee3bda1-d2c3-4de0-998e-8ed4d9eb10f0,,"Untitled Stop",35.051839,-80.683354
+remix_8fb6cf82-7bf6-4060-b6d2-b87e9f1eec88,,"Untitled Stop",35.053898,-80.682806
+remix_943d96b1-2ae3-4140-91f6-1e6f42419bba,,"Untitled Stop",35.055973,-80.682383
+remix_717c02f3-9a0b-4d0f-9e74-a5d8794f62e5,,"Untitled Stop",35.058864,-80.682198
+remix_45bcce1f-189b-48a4-b48a-b31f7027a625,,"Untitled Stop",35.062021,-80.681751
+remix_e47ec27c-80f9-4f3c-82cb-7ce3ec933989,,"Untitled Stop",35.065078,-80.680835
+remix_6aea77a0-4580-4bfa-a82c-1cafdcd245c1,,"Untitled Stop",35.067985,-80.678815
+remix_5f217b8f-5f46-4933-a788-69748f5afe19,,"Untitled Stop",35.070329,-80.675844
+remix_181d6e02-b8e5-42c4-b8f1-ebec661007d5,,"Untitled Stop",35.072634,-80.673657
+remix_be02eec0-fb03-4cf0-b1e4-8feafbbb126a,,"Untitled Stop",35.074667,-80.671198
+remix_e2d5f98f-1289-423b-9722-7420ef8713a2,,"Untitled Stop",35.077145,-80.668402
+remix_f4e70b1b-34c6-4c4f-837d-a6cd60e0a0db,,"Untitled Stop",35.084569,-80.670645
+remix_6d4cb0c8-200b-41b2-bd12-5db3778b87ba,,"Untitled Stop",35.092723,-80.676418
+remix_58210745-e158-4109-964f-ae5b8c85be10,,"Untitled Stop",35.095011,-80.679400
+remix_f1cfef05-ed95-4642-9981-cd6a9840ac30,,"Untitled Stop",35.096978,-80.677107
+remix_949f24d1-1999-4e7b-bfe2-d32324fab642,,"Untitled Stop",35.092563,-80.676482
+remix_5bcace7b-b95b-42eb-8c8e-88e99d1b5dde,,"Untitled Stop",35.090329,-80.673172
+remix_23201cc5-26df-46b2-848e-b4bb989c4c9c,,"Untitled Stop",35.087084,-80.671777
+remix_16a62c30-a5e5-45d3-9961-2e9b795497e5,,"Untitled Stop",35.084564,-80.670980
+remix_ab40910d-1616-4a05-828e-e48b51c769aa,,"Untitled Stop",35.083701,-80.670569
+remix_73d642e3-3de7-4c7c-ad9d-96f18a17a888,,"Untitled Stop",35.080397,-80.669144
+remix_8c4169d8-b9e0-4e3a-acf2-31763a3cdc93,,"Untitled Stop",35.077980,-80.667676
+remix_1ec0b063-9d46-4131-82e6-bb91085e49ef,,"Untitled Stop",35.075427,-80.670648
+remix_f49216c3-1e3e-4184-abe0-5f2456886882,,"Untitled Stop",35.072887,-80.673621
+remix_379bf8a7-9f1a-44e4-9273-6a901310e58c,,"Untitled Stop",35.070199,-80.676376
+remix_80828c4f-63ac-42da-92f8-876a51d2050b,,"Untitled Stop",35.067705,-80.679419
+remix_433205e8-ec36-43ca-8f78-f71b34e09a74,,"Untitled Stop",35.064553,-80.681325
+remix_70dc62cd-0d75-45ba-ba52-c6646e8f4e3a,,"Untitled Stop",35.061092,-80.682152
+remix_2b325483-5ace-4c2e-8f68-fed94c6c16c8,,"Untitled Stop",35.057578,-80.682483
+remix_22ea2013-41cd-4b78-90a1-25f9fbfbef95,,"Untitled Stop",35.054097,-80.682952
+remix_079c3ad5-69c4-4cb1-85c8-33da683dd7f0,,"Untitled Stop",35.050654,-80.683842
+remix_8da59ba7-6daa-48d6-b652-db2637c62aa8,,"Untitled Stop",35.047138,-80.684117
+remix_33421cf5-b2d5-4193-9931-610383446f08,,"Untitled Stop",35.043623,-80.684297
+remix_e428c794-9ebd-4e6c-bfe5-2a3f445035cd,,"Untitled Stop",35.040110,-80.684508
+remix_cd11b406-9f46-45d7-983d-f63a17fe73a4,,"Untitled Stop",35.036645,-80.685009
+remix_10bf6dad-4a34-4ab2-8fbf-ae885cfb9f52,,"Untitled Stop",35.033358,-80.686462
+remix_1735df79-8e55-4e18-a1d6-e4bb9379ec32,,"Untitled Stop",35.030394,-80.688752
+remix_86c55833-2b1b-49bc-b72a-6df838d1d325,,"Untitled Stop",35.027208,-80.690549
+remix_e43e92c2-573b-4752-a9ec-8cbec42bfc47,,"Untitled Stop",35.023966,-80.691545
+remix_c024e715-5659-44ce-9816-22eb634930bd,,"Untitled Stop",35.020830,-80.693544
+remix_ffa36f5e-3d7d-4d7e-bd38-cbbce702d4e1,,"Untitled Stop",35.017774,-80.695375
+remix_134eb558-4865-47c7-8062-e07a5903f3f9,,"Untitled Stop",35.014376,-80.696488
+remix_b68c3d9a-b744-48e6-a0ed-ed142b7b664c,,"Untitled Stop",35.010878,-80.696724
+remix_fd6c3048-a551-4222-9350-42fa6a29f45f,,"Untitled Stop",35.007424,-80.697469
+remix_3d3ee3de-82c0-443d-8fc2-cd64be86fa64,,"Untitled Stop",35.004031,-80.698591
+remix_a08844c4-f885-40f5-8b1a-fd14bfa9890f,,"Untitled Stop",35.334020,-80.717086
+remix_144d5f0f-d4c0-434d-b491-bf4e5ae0cb3a,,"Untitled Stop",35.334626,-80.715798
+remix_53ccee6e-ef45-43f9-9105-881ab75677d1,,"Untitled Stop",35.331182,-80.715746
+remix_2e14eb10-ce9a-4b09-bc15-636c95c55386,,"Untitled Stop",35.327975,-80.714456
+remix_a7a376c2-44fd-4eb7-8bfe-f60b6575c6ad,,"Untitled Stop",35.325112,-80.712570
+remix_7be8636b-c115-4482-b77f-1524d4bf9753,,"Untitled Stop",35.321698,-80.711977
+remix_2e933b29-ede8-47cf-bc4b-5bffff73f292,,"Untitled Stop",35.318331,-80.712862
+remix_886784fc-f134-47ac-8050-e5b2e4aa9ed6,,"Untitled Stop",35.314904,-80.713227
+remix_1cc1f843-20c7-4fc9-9709-0828934d4c1c,,"Untitled Stop",35.311530,-80.712474
+remix_2ee334b2-0a46-44eb-b589-f2da1b03f576,,"Untitled Stop",35.310169,-80.716025
+46342,,"University City Blvd & John Kirk Dr",35.306710,-80.723307
+33030,,"University City Blvd & Broadrick Blvd",35.302689,-80.729121
+45070,,"University City Blvd & Mark Twain Rd",35.300390,-80.733324
+33060,,"University City Blvd & WT Harris Blvd",35.297473,-80.740010
+remix_d2499893-b5d6-4364-b12a-4faf2823e336,,"Untitled Stop",35.294097,-80.747522
+remix_0fadfd5b-0f63-4a3a-9ed0-ad304cbaef60,,"Untitled Stop",35.292545,-80.751348
+remix_b5e5c6f9-1449-4529-b842-7492492c82c0,,"Untitled Stop",35.291139,-80.755270
+60311,,"Tryon St & Periwinkle Hill",35.286835,-80.761304
+60310,,"UCB Station Bay",35.287675,-80.762134
+remix_d1909dd2-d41d-47d7-97c6-43cdc2866e2b,,"Untitled Stop",35.291262,-80.753897
+remix_5fc83dd5-a340-4d4d-be92-5ca2304df6d1,,"Untitled Stop",35.292523,-80.750425
+remix_4f2f171b-d20a-4f9e-be5a-b5f36f9f97e3,,"Untitled Stop",35.293915,-80.747025
+remix_1ff2aacb-bb11-4fdb-afae-8ab7cbd9ce66,,"Untitled Stop",35.295435,-80.743715
+33050,,"University City Blvd @ Town Center Plaza",35.297429,-80.739295
+33035,,"University City Blvd & Mark Twain Rd",35.299801,-80.734196
+45161,,"Mary Alexander Rd @ Robinson Hall",35.303261,-80.729416
+45156,,"Mary Alexander Rd @ East Deck 1",35.305058,-80.728172
+14700,,"Van Landingham Rd & John Kirk Dr",35.307209,-80.724818
+remix_3015ffc5-827d-4452-b88a-4e6fb01bceaf,,"Untitled Stop",35.308866,-80.718837
+remix_de9d7de0-91f8-4c58-b8e6-ebdb98ce97e0,,"Untitled Stop",35.310190,-80.714868
+remix_7c82d1d5-57c3-497e-b1d3-18d27c9fe7d1,,"Untitled Stop",35.312195,-80.712412
+remix_ea8a91b6-2743-41cc-8fac-9720f6151676,,"Untitled Stop",35.315615,-80.713243
+remix_50badbe0-f425-4220-b529-318ecaed9c5b,,"Untitled Stop",35.319019,-80.712473
+remix_212fe76d-a213-43ab-9247-504ce3651500,,"Untitled Stop",35.322491,-80.711854
+remix_85d6edf7-cb8f-465c-93b8-b1087e8ef13a,,"Untitled Stop",35.325954,-80.712485
+remix_e9f44db8-133c-448a-bcb9-8cd5218b75f5,,"Untitled Stop",35.328708,-80.715036
+remix_8f97b14d-0ecf-409e-a64b-0769cb6b406c,,"Untitled Stop",35.332089,-80.715556
+remix_2ac14b89-1e5f-4dc0-a389-7685be25fd7b,,"Untitled Stop",35.334043,-80.717409
+remix_91d51b32-738e-42e7-add9-086fa23bd2bd,,"Untitled Stop",35.081120,-80.730127
+remix_5223e93b-5e66-480d-a8b9-42133469e6c5,,"Untitled Stop",35.081962,-80.726317
+remix_9224d84d-f518-49d2-af41-8bb600b5b875,,"Untitled Stop",35.082416,-80.722282
+remix_3a4dae84-91ec-446f-9d9a-52f2ffd5f3fc,,"Untitled Stop",35.081997,-80.718230
+remix_3f55b53b-ff4e-498d-9d5e-69891dc197b2,,"Untitled Stop",35.083801,-80.714697
+remix_958378a2-049d-469f-bec4-95b007ef77a9,,"Untitled Stop",35.085987,-80.711728
+remix_2dcff7f5-89d2-47ab-b386-4681d4e698ac,,"Untitled Stop",35.087143,-80.715638
+remix_7a80dfbb-3077-4152-9a9e-61ccc0efa3d3,,"Untitled Stop",35.089290,-80.718648
+remix_16b95494-f4d6-4f23-aed7-078ee5e7239c,,"Untitled Stop",35.092026,-80.721119
+remix_2690ffc0-fa29-438a-bf8c-4b490bd5ded7,,"Untitled Stop",35.094965,-80.723122
+remix_80d4b454-ce04-4532-9c15-399d97aa424f,,"Untitled Stop",35.098081,-80.724823
+remix_9eddbf37-4c6d-4cfc-b548-260baa147e7a,,"Untitled Stop",35.100288,-80.727834
+remix_0f79e2f5-ee1e-4632-acb6-8b44146d0801,,"Untitled Stop",35.102876,-80.729971
+remix_a71979f1-1be4-4c2c-a881-44dbc309e129,,"Untitled Stop",35.106130,-80.729501
+remix_73ec8498-14a4-4b41-a547-254bc28d3dcc,,"Untitled Stop",35.109405,-80.728405
+remix_ee8d8cd4-aeb5-451f-a37c-efaae14245eb,,"Untitled Stop",35.112161,-80.726029
+remix_04475b98-8da4-419e-ae45-7a8306293b03,,"Untitled Stop",35.114799,-80.723413
+37170,,"Trade St & Matthews Station St",35.117482,-80.720893
+remix_18fad05e-2d9d-4923-8deb-0569be31692a,,"Untitled Stop",35.120245,-80.714657
+remix_bd4cc894-cefc-41ea-a216-015f7a0539fa,,"Untitled Stop",35.119230,-80.716057
+37240,,"Trade St & Charles St",35.117367,-80.721238
+remix_e8538d95-b0d5-4e05-97ed-97c203ae70a3,,"Untitled Stop",35.114535,-80.723934
+remix_edcdd769-1aa5-4ada-889a-ef1a1f5a4a8e,,"Untitled Stop",35.111718,-80.726665
+remix_6a195aa2-0f5d-4fd8-83ec-b52c637a4d27,,"Untitled Stop",35.108703,-80.728979
+remix_fe271593-921c-453c-8f3a-8b4e0fc879ed,,"Untitled Stop",35.105257,-80.730190
+remix_b08d7bc8-b9a2-42e3-a7e9-698956dbd7f0,,"Untitled Stop",35.101751,-80.729616
+remix_ead1a4ca-e6e1-41aa-ad21-5050aadc0224,,"Untitled Stop",35.099634,-80.726485
+remix_0e2a8f4b-c8c4-4886-aab3-f1a675d0cbd6,,"Untitled Stop",35.096645,-80.724139
+remix_a94c453c-ad99-4ac1-ab3e-3f52a563dd1f,,"Untitled Stop",35.093330,-80.722443
+remix_4e3a0804-77fb-4dff-98c5-a4f12cf23671,,"Untitled Stop",35.090402,-80.719884
+remix_4f0212db-b26b-44eb-965c-9f48a3657236,,"Untitled Stop",35.087576,-80.717155
+remix_de668844-add4-4309-b538-88f4db660272,,"Untitled Stop",35.086224,-80.713077
+remix_90ae40a4-4f4e-418a-ac71-e807b67c5951,,"Untitled Stop",35.084470,-80.713885
+remix_aaed1a43-6a48-4310-9cf4-420b3d0ac823,,"Untitled Stop",35.082423,-80.717463
+remix_4c01ffaa-bfd8-45a6-9e1c-7006bac7b521,,"Untitled Stop",35.082383,-80.721587
+remix_e30b0387-03de-4c6e-ba5a-0e9232d33a2e,,"Untitled Stop",35.082206,-80.725932
+remix_ae40c770-85f1-4438-a060-ded6792e112e,,"Untitled Stop",35.081804,-80.727773
+remix_6f382c40-9b9d-46b1-885f-fb9b24afc470,,"Untitled Stop",35.125838,-80.727810
+45948,,"Monroe Rd & Matthews Township Pkwy",35.123648,-80.729251
+remix_5c9e8fda-8dba-4f21-8c2e-b329db5ef369,,"Untitled Stop",35.137979,-80.713750
+remix_9611ea8e-51ad-45fa-874c-e68a7e2c20af,,"Untitled Stop",35.140719,-80.713679
+remix_131c88c1-f46c-4da6-a12d-c06a90948af6,,"Untitled Stop",35.140937,-80.709315
+remix_70a37b84-025f-41ad-a586-ed4a9bd9e3d0,,"Untitled Stop",35.139632,-80.705534
+remix_b6bd23f3-01fe-477f-9a30-5911bb36a811,,"Untitled Stop",35.140448,-80.701736
+remix_f2365739-6e71-4127-adb1-5c154f336f84,,"Untitled Stop",35.142890,-80.698555
+remix_e9b8f4c6-081b-4669-a6e0-d3625287c299,,"Untitled Stop",35.145930,-80.697818
+remix_81d9576f-d3a2-4aa1-8e11-1f89b764cb93,,"Untitled Stop",35.149416,-80.698795
+remix_9306729f-20da-49c2-b647-1d1d8c128c33,,"Untitled Stop",35.152744,-80.700363
+remix_c32a1f90-6b2b-4efa-8fff-38511631e8c4,,"Untitled Stop",35.155995,-80.701631
+remix_6cb943af-8fee-4bea-8ecf-2931df2c3973,,"Untitled Stop",35.159384,-80.700532
+remix_c98fb399-9549-4046-b9cb-efc86d9ec83b,,"Untitled Stop",35.162679,-80.698855
+remix_b29c6bda-c33f-449d-aba4-ee9be7de8c9f,,"Untitled Stop",35.165959,-80.700600
+remix_d04e9318-23d1-423a-8624-1a94a01937c2,,"Untitled Stop",35.169183,-80.702508
+remix_30b92bb4-abba-48d4-80b3-01cd47ba750b,,"Untitled Stop",35.171966,-80.705265
+52290,,"Idlewild Rd & Oak Dr",35.174685,-80.708138
+remix_9f7897c8-25b3-4974-a4ba-c9f244397d35,,"Untitled Stop",35.175848,-80.711344
+remix_0c4d660b-5e7c-44dd-8839-8d02b73fbe39,,"Untitled Stop",35.175869,-80.714931
+remix_3b51bb49-eadf-49dc-9194-56d53a29f0b3,,"Untitled Stop",35.175030,-80.718150
+46697,,"Idlewild Rd & Cross Winds Rd",35.177045,-80.720635
+remix_15098618-5918-4658-b328-fb6c98797f8b,,"Untitled Stop",35.178424,-80.723049
+45867,,"Idlewild Rd & Cresthill Dr",35.180324,-80.724964
+12710,,"Idlewild Rd & New Hampshire Dr",35.182829,-80.726961
+38205,,"Idlewild Rd & Piney Grove Rd",35.184030,-80.727956
+remix_770929ef-4f46-41ee-9e4e-9fe4a502287c,,"Untitled Stop",35.185498,-80.729213
+12700,,"Idlewild Rd & WT Harris Blvd",35.186456,-80.731160
+12690,,"Idlewild Rd & Idlebrook Dr",35.187422,-80.735110
+remix_faad5f83-db90-49ec-94c1-97d1ce84b8a0,,"Untitled Stop",35.186400,-80.737064
+12680,,"Idlewild Rd & Ivydale Dr",35.185754,-80.739128
+12670,,"Idlewild Rd & Boston Ave",35.186002,-80.741748
+12660,,"Idlewild Rd @ 7007",35.186367,-80.745190
+12650,,"Idlewild Rd & Cedarwild Rd",35.185979,-80.746779
+12640,,"Idlewild Rd & Dion Ave",35.184796,-80.748943
+remix_0db30823-c872-42f4-92a5-2700331d93c7,,"Untitled Stop",35.182911,-80.753220
+remix_7bd0c573-2253-4dbe-a3e3-6c5fc843981b,,"Untitled Stop",35.181478,-80.755834
+remix_b2123b39-ad55-404d-afaf-b7e89c8f34c4,,"Untitled Stop",35.183257,-80.752998
+38330,,"Idlewild Rd & Cedars East Ct",35.183776,-80.751100
+38220,,"Idlewild Rd & Dion Ave",35.184790,-80.748792
+38230,,"Idlewild Rd & Cedarwild Rd",35.185752,-80.747038
+remix_5409bb44-5254-4c43-a4bb-6d95e020b077,,"Untitled Stop",35.186183,-80.744449
+38240,,"Idlewild Rd & Boston Ave",35.185920,-80.741723
+38250,,"Idlewild Rd & Ivydale Dr",35.185673,-80.739224
+38260,,"Idlewild Rd & Lynfield Dr",35.186262,-80.737050
+38270,,"Idlewild Rd & Highbrook Dr",35.187057,-80.736056
+remix_443b1e81-2769-43b9-840c-dda89c439c95,,"Untitled Stop",35.186971,-80.733426
+38280,,"Idlewild Rd & WT Harris Blvd",35.186137,-80.730812
+38210,,"Idlewild Rd & Piney Grove Rd",35.183922,-80.728180
+38300,,"Idlewild Rd & Lynworth Pl",35.182755,-80.727210
+remix_aadd9876-c9ed-4474-876c-a871819a4c97,,"Untitled Stop",35.181250,-80.725990
+38290,,"Idlewild Rd & Cresthill Dr",35.179758,-80.724732
+remix_3058889d-984f-463c-8864-4a93f8615f30,,"Untitled Stop",35.178350,-80.723220
+46694,,"Idlewild Rd & Chenango Dr",35.177252,-80.721339
+remix_923aa27d-f1cb-4b86-93e3-5cac28b98172,,"Untitled Stop",35.175213,-80.718920
+remix_b9512382-7511-4297-a6d1-77bdaa2c95b7,,"Untitled Stop",35.175404,-80.715599
+remix_e9bbd385-3893-4440-abb6-40a8ed8e9107,,"Untitled Stop",35.175793,-80.712277
+46405,,"Idlewild Rd & Wyalong Dr",35.175145,-80.708920
+remix_87cab7d8-81fe-4cc9-97b7-5a4586bf1caf,,"Untitled Stop",35.171540,-80.705066
+remix_ec00d177-698e-4969-b7ac-3e519116ad8e,,"Untitled Stop",35.168878,-80.702481
+remix_29c31326-e966-4e4a-b665-7ada41fc7597,,"Untitled Stop",35.165813,-80.700735
+remix_b1914762-bc00-4f73-a6b9-af8d37974067,,"Untitled Stop",35.162718,-80.699055
+remix_18fc9c0d-985f-4710-8c66-108fcd27b70c,,"Untitled Stop",35.159658,-80.700577
+remix_24f4a2db-1c26-4e96-89f5-2f7a1fbe6ad9,,"Untitled Stop",35.156405,-80.701774
+remix_c83b013d-c383-4bfc-b839-112a93caacc2,,"Untitled Stop",35.153151,-80.700873
+remix_e0a6d2da-dca2-409e-9c83-42f66fdd9d6d,,"Untitled Stop",35.150092,-80.699173
+remix_5086d8db-24b2-4ab6-aaaf-1ddab513529a,,"Untitled Stop",35.146766,-80.698250
+remix_23ee6b79-7a35-4aad-828b-0ea494aba278,,"Untitled Stop",35.143729,-80.697744
+remix_77470564-fb82-48ed-997c-13ce0a2c115e,,"Untitled Stop",35.141412,-80.700795
+remix_5db8fb4f-34ce-47f4-bed5-440115feabbc,,"Untitled Stop",35.139336,-80.703910
+remix_7cd98f99-d69c-4044-89c9-a40f36350f6d,,"Untitled Stop",35.140983,-80.707412
+remix_5fddfc8e-5ed5-45c0-abc0-d15517974c33,,"Untitled Stop",35.140977,-80.711593
+remix_60ad0ac1-d472-496d-9ea9-1a9b2cec3a53,,"Untitled Stop",35.139808,-80.714410
+remix_063fa5d1-02e3-4904-9663-e4cc72073fda,,"Untitled Stop",35.136644,-80.714674
+remix_b5a526ff-c08c-4719-a80b-5bb1142116f5,,"Untitled Stop",35.122020,-80.720218
+remix_38103ea8-4f10-4f95-b1e8-c0b20f84c37f,,"Untitled Stop",35.123055,-80.723467
+remix_209c2427-3bc9-46f8-80c5-02d7c1ff6916,,"Untitled Stop",35.122837,-80.726985
+45119,,"Monroe Rd & Hwy 51",35.123807,-80.729107
+49850,,"Bryton Town Center Dr @ Walmart (Southbound)",35.371811,-80.827822
+40710,,"Hambright Rd & Comanche Rd",35.382243,-80.877795
+40630,,"Hambright Rd & Cimmaron Rd",35.384739,-80.882391
+60221,,"McCoy Rd & Toronto Pl",35.387027,-80.881361
+40720,,"McCoy Rd & Stratton Farm Rd",35.395177,-80.874523
+41428,,"Julian Clark Av & Lindley Dr",35.398170,-80.866798
+41430,,"Julian Clark Av & Reese Blvd W",35.397534,-80.864556
+41434,,"Boren St & Kincey Av",35.404367,-80.865965
+41436,,"Gilead Rd @ Torrence Village",35.406262,-80.864849
+41438,,"Gilead Rd @ Huntersville Presbyterian Hospital",35.407685,-80.861080
+41439,,"Gilead Rd & Reese Blvd",35.407207,-80.863027
+41433,,"Boren St @ EarthFare",35.404372,-80.866139
+41431,,"Boren St & Reese Blvd W",35.400818,-80.864367
+52830,,"Julian Clark & Professional Center",35.398596,-80.867366
+40730,,"McCoy Rd & Stratton Farm Rd",35.394813,-80.875109
+60220,,"McCoy Rd & Toronto Pl",35.387320,-80.881302
+40631,,"Hambright Rd & Frontier Rd",35.384706,-80.882886
+60110,,"Hambright Rd & Pacemaker Ln",35.382351,-80.878290
+11990,,"Mint Hill Festival Shopping Ctr @ Hwy 51",35.172153,-80.657417
+14210,,"Lawyers Rd & Hwy 51",35.174038,-80.657612
+44060,,"Lawyers Rd & Truelight Church Rd",35.178030,-80.666704
+14180,,"Lawyers Rd & Wooden Rail Ln",35.177830,-80.669829
+14160,,"Lawyers Rd & Golden Spike Dr",35.178590,-80.674464
+14150,,"Lawyers Rd & Danbrooke Park Dr",35.180827,-80.682017
+14120,,"Lawyers Rd & Wilson Grove Rd",35.186332,-80.688086
+45767,,"Lawyers Rd & Meadow Glen Dr",35.188478,-80.692701
+45848,,"Lawyers Rd & Glenmont Dr",35.190342,-80.701529
+14090,,"Lawyers Rd & Bent Creek Cir",35.191427,-80.703329
+14080,,"Lawyers Rd & Harri Ann Dr",35.194473,-80.707772
+14055,,"Lawyers Rd & Rolling Oak Ln",35.195739,-80.711317
+14040,,"Lawyers Rd & Maplewood Ln",35.197969,-80.717246
+remix_d0bab626-0ae9-45f9-8d9f-a864b3c658c3,,"Untitled Stop",35.199324,-80.720128
+remix_ebebfb9a-adba-4594-a59a-c97d21fe0ba6,,"Untitled Stop",35.200944,-80.722763
+45160,,"WT Harris Blvd & Albemarle Rd",35.204587,-80.725880
+remix-78956141,,"Untitled Stop",35.205630,-80.725776
+00285,,"Albemarle Rd & Lawyers Rd Park and Ride",35.203980,-80.724266
+remix-78956142,,"Untitled Stop",35.203187,-80.724214
+00270,,"Albemarle Rd & WT Harris Blvd",35.202460,-80.728142
+00260,,"Albemarle Rd & Regal Oaks Dr",35.202699,-80.731277
+00240,,"Albemarle Rd & Winterhaven Dr",35.202986,-80.735569
+00210,,"Albemarle Rd & Farm Pond Ln",35.203087,-80.737700
+00170,,"Albemarle Rd & Jenkins Dr",35.203334,-80.743471
+27810,,"Sharon Amity Rd & Albemarle Rd",35.201012,-80.760734
+27780,,"Sharon Amity Rd & Amity Springs Dr",35.199228,-80.760927
+27790,,"Sharon Amity Rd & Pierson Dr",35.197120,-80.762635
+remix_e4ed39eb-87fe-478b-b194-ceada0426c36,,"Untitled Stop",35.196367,-80.768367
+27770,,"Sharon Amity Rd & Amity Pl",35.196838,-80.762770
+27800,,"Sharon Amity Rd & Amity Springs Dr",35.199104,-80.760776
+49523,,"Albemarle Rd & Redman Rd",35.203867,-80.750791
+15000,,"Albemarle Rd & Central Av",35.203271,-80.746084
+00180,,"Albemarle Rd & Executive Center Dr",35.203106,-80.743111
+45221,,"Albemarle Rd & Farm Pond Ln",35.202844,-80.737820
+00230,,"Albemarle Rd & Winterhaven Dr",35.202746,-80.734891
+00250,,"Albemarle Rd & Regal Oaks Dr",35.202501,-80.731293
+00280,,"Albemarle Rd & WT Harris Blvd",35.202292,-80.728607
+14240,,"Lawyers Rd & Old Lawyers Rd",35.200524,-80.722520
+14050,,"Lawyers Rd & Walnut Grove Ln",35.197503,-80.716383
+14060,,"Lawyers Rd & Rolling Oak Ln",35.195719,-80.711878
+14070,,"Lawyers Rd & Harri Ann Dr",35.194264,-80.707540
+14100,,"Lawyers Rd & Glenmont Dr",35.190322,-80.701592
+14110,,"Lawyers Rd & Meadow Glen Dr",35.188570,-80.693453
+14140,,"Lawyers Rd & Danbrooke Park Dr",35.180983,-80.682419
+44059,,"Lawyers Rd & Lawyers Glen Dr",35.177462,-80.664066
+14205,,"Lawyers Rd & Evans Rd",35.176208,-80.660843
+46412,,"Harris Corners Pkwy & Maple View Ln",35.345223,-80.842969
+46431,,"Statesville Rd & Transport Dr",35.339927,-80.842280
+46381,,"Statesville Rd & Lakeview Rd",35.336040,-80.842675
+45842,,"Statesville Rd & Long Creek Park Dr",35.329226,-80.843353
+46362,,"Statesville Rd @ 7801",35.325318,-80.843485
+46434,,"Statesville Rd @ 7349",35.322428,-80.842763
+45839,,"Statesville Rd & Spector Dr",35.315360,-80.840219
+46692,,"Statesville Rd & Sunset Rd",35.311231,-80.839237
+31200,,"Sunset Rd @ 5201",35.308746,-80.841031
+31190,,"Sunset Rd @ 5005",35.308211,-80.843691
+31170,,"Sunset Rd @ 4525",35.306798,-80.852238
+31150,,"Sunset Rd & Northpark Blvd",35.306180,-80.855077
+remix_246d3311-3373-464f-908b-13519d88d747,,"Untitled Stop",35.305030,-80.858892
+remix_2c074303-0e0d-479f-99c0-be6ee2cf9caf,,"Untitled Stop",35.305044,-80.863031
+remix_c0f06d42-d096-4d51-9dd4-6d4d75c37bbe,,"Untitled Stop",35.305728,-80.867045
+remix_239bdfef-65a2-4229-bc2a-97707565547b,,"Untitled Stop",35.307131,-80.870774
+remix_ea22455d-f556-4e6f-8253-3547ff5be1c4,,"Untitled Stop",35.304925,-80.873805
+remix_45988cae-fb08-4016-9a54-c03b4833ee22,,"Untitled Stop",35.302388,-80.876530
+remix_79c1b803-eafe-41af-82bc-b30b6fa0ea38,,"Untitled Stop",35.300349,-80.879811
+remix_282c3747-c4e4-4817-a683-72845d60943d,,"Untitled Stop",35.298141,-80.882943
+remix_f2b91211-f0de-4a4d-be6b-015f297e4cd4,,"Untitled Stop",35.295958,-80.886103
+remix_24e38168-ed91-4969-afcd-b3f952d8cb00,,"Untitled Stop",35.293357,-80.888676
+remix_0e6ce7ec-23d3-497c-ba95-d7f11a57e4cd,,"Untitled Stop",35.290890,-80.891249
+remix_1ed73d49-a2ac-4ce9-98b1-dbe7f1b772c2,,"Untitled Stop",35.287713,-80.892572
+remix_bcac2967-fcfd-43ad-906d-9c293bed8458,,"Untitled Stop",35.284751,-80.894515
+52780,,"Brookshire & Hovis",35.279845,-80.896527
+21513,,"Salem Church Rd & Rozzelles Ferry Rd",35.276316,-80.893927
+25200,,"Rozzelles Ferry Rd & Salem Church Rd",35.274937,-80.893523
+25210,,"Rozzelles Ferry Rd & Hovis Rd",35.275709,-80.895471
+12360,,"Hovis Rd & Salem Church Rd",35.277281,-80.895336
+12361,,"Brookshire & Hovis",35.278991,-80.894758
+remix_a4a1557b-bc3f-4d53-a5dd-8e892b45cc62,,"Untitled Stop",35.283267,-80.895518
+remix_c28efbd0-a55c-4593-8c17-6c747b4dc332,,"Untitled Stop",35.286210,-80.893234
+remix_fe9006e7-a237-49d0-a6d8-fba810d373d8,,"Untitled Stop",35.289407,-80.891533
+remix_1f36cf31-5e18-490d-b4a6-9919f7bc8b56,,"Untitled Stop",35.292038,-80.889256
+remix_c515473e-61a3-4e7e-84fb-d3eb4a2dda81,,"Untitled Stop",35.295002,-80.887178
+remix_63b43150-5872-4bc8-b764-3e3e0fbad566,,"Untitled Stop",35.297264,-80.883941
+remix_310de907-ed06-4989-85d0-a56b86592530,,"Untitled Stop",35.299524,-80.880695
+remix_58751162-3268-4786-8358-7293e85720fc,,"Untitled Stop",35.301648,-80.877347
+remix_31a739b0-139e-42bb-84ef-cd0ae84e9a63,,"Untitled Stop",35.304156,-80.874378
+remix_9b5cb56b-70f2-4287-ae2a-7fd4dbc564a0,,"Untitled Stop",35.306674,-80.871460
+remix_42b1af2b-ad5d-4d62-adaf-3ddcd6acfc3b,,"Untitled Stop",35.305795,-80.867907
+remix_32218eb6-4334-4778-b496-d1b5339849e0,,"Untitled Stop",35.304935,-80.863769
+remix_8fac3dce-0eb2-47c2-aecc-1dd91d4d62b0,,"Untitled Stop",35.304883,-80.859494
+31140,,"Sunset Rd & Hamilton Cir",35.305893,-80.855466
+31160,,"Sunset Rd & Banner Elk Dr",35.306540,-80.852748
+31180,,"Sunset Rd & Milhaven Ln",35.308017,-80.843663
+31210,,"Sunset Rd @ 5214",35.308431,-80.841695
+46689,,"Statesville Rd & Sunset Rd",35.311489,-80.838861
+46435,,"Statesville Rd @ 7320",35.322240,-80.842608
+46361,,"Statesville Rd @ 7600",35.325201,-80.843300
+45843,,"Statesville Rd & Long Creek Park Dr",35.328766,-80.843296
+46376,,"Statesville Rd & Lakeview Rd",35.335233,-80.842657
+46432,,"Statesville Rd & Transport Dr",35.339582,-80.842189
+46364,,"Statesville Rd & Harris Oaks Blvd",35.342610,-80.841854
+46413,,"Harris Corners Pkwy & Harris Oaks Blvd",35.344606,-80.846238
+59913,,"Concord Rd & N Kimberly Rd",35.488822,-80.827410
+59914,,"Concord Rd & N Downing St",35.491601,-80.831930
+59915,,"Concord Rd & Grey Rd",35.495436,-80.839526
+59917,,"Concord Rd & Faculty Dr",35.498327,-80.844604
+45131,,"Depot St & Jackson St",35.500809,-80.850258
+33980,,"Watson St & Griffith St",35.502192,-80.850484
+59918,,"Concord Rd & College",35.498132,-80.844552
+59920,,"Concord Rd & Conroy Av",35.495122,-80.838950
+59921,,"Concord Rd & Downing St",35.491204,-80.831523
+59922,,"Concord Rd & Kimberly Rd",35.488833,-80.827687
+59923,,"Concord Rd & Rocky River Rd",35.485082,-80.821634
+46406,,"Mintworth Ave & Margaret Wallace Rd",35.171881,-80.709226
+remix_b82a60a4-310e-4b1d-b4c9-27a091c77d79,,"Untitled Stop",35.169458,-80.709694
+remix_ea1f565b-f6e0-45c9-8a71-0a816542e9a7,,"Untitled Stop",35.166752,-80.712129
+remix_19002290-a91f-4f80-a0b1-23c25b6c680c,,"Untitled Stop",35.164162,-80.714783
+remix_7434081f-c68e-427c-8172-677f6cbb5491,,"Untitled Stop",35.162039,-80.717820
+remix_f65316d3-817a-4708-9c88-3f249c8c93b9,,"Untitled Stop",35.161024,-80.721772
+remix_d53e4906-06a0-4493-85fc-ab271ba0dcda,,"Untitled Stop",35.159394,-80.725325
+remix_b467f557-ffe1-40f6-ba0f-2e2c28d01283,,"Untitled Stop",35.159925,-80.729001
+remix_b1fe435a-2a3e-4153-95e8-d678b40ea667,,"Untitled Stop",35.162305,-80.731792
+remix_cc96cbe1-c177-4d2d-9245-571e32d63840,,"Untitled Stop",35.163926,-80.735097
+remix_34c5c163-059d-479b-a90e-874d53b9d4e7,,"Untitled Stop",35.164335,-80.739202
+remix_53bf5544-c866-4586-9737-fb1cdd8994ce,,"Untitled Stop",35.162732,-80.739813
+remix_8f387498-3498-420a-936d-3e0b860a3f06,,"Untitled Stop",35.161586,-80.743104
+remix_dbd253b6-3e45-458f-9511-75767162249a,,"Untitled Stop",35.160847,-80.746984
+94,,"Village Lake Dr",35.158047,-80.748703
+remix_d146bc52-d940-4829-80e8-3b914be9c67c,,"Untitled Stop",35.157800,-80.748487
+remix_1b059407-244b-4512-871c-236b4584a3eb,,"Untitled Stop",35.160686,-80.746875
+remix_f78f9024-a531-47af-963c-c088bddd4fa4,,"Untitled Stop",35.161435,-80.743204
+remix_036b94a2-0bfb-4c8e-af11-d5220d167de4,,"Untitled Stop",35.162637,-80.739340
+remix_b5c4e106-4958-4667-8d89-4d0042cf7249,,"Untitled Stop",35.164185,-80.739242
+remix_450c24a0-a7a8-4997-bc38-b961189f7d94,,"Untitled Stop",35.163773,-80.735110
+remix_180d4f2f-9d31-4fc3-81dd-5a8787d546ba,,"Untitled Stop",35.162208,-80.731943
+remix_83d41121-8b05-4c26-a213-ae4c5ae1501d,,"Untitled Stop",35.159769,-80.729060
+remix_02f512bb-3842-4d0e-8d37-5a554eb4101d,,"Untitled Stop",35.159271,-80.725173
+remix_02fc3370-b4a3-4169-8f10-34d6df433366,,"Untitled Stop",35.160938,-80.721569
+remix_0f16534a-9f6d-4612-aec6-a38fe32caf01,,"Untitled Stop",35.161932,-80.717611
+remix_afc74237-8e72-490d-a015-5fd8e1678234,,"Untitled Stop",35.164185,-80.714514
+remix_ea55449c-31ac-4c52-95cb-2102a8d4fd47,,"Untitled Stop",35.166798,-80.711841
+remix_bb23e089-eeb3-4abb-bf85-f1933caff9fe,,"Untitled Stop",35.169564,-80.709404
+remix_ab9eb091-a07b-49d4-8237-655f1eb9fccd,,"Untitled Stop",35.172477,-80.707270
+remix_d627df17-d4ea-486a-b2f3-6453577715ab,,"Untitled Stop",35.174178,-80.709035
+remix_d8f32962-bcea-4b83-a166-6e143d43c2b1,,"Untitled Stop",35.171677,-80.659929
+remix_c1fbef4f-5538-4eb0-b82f-4b5d7460728a,,"Untitled Stop",35.169454,-80.663201
+remix_13162444-5114-499a-8298-4b9538b1e804,,"Untitled Stop",35.166836,-80.665990
+remix_f5bf01f6-80cf-4ca3-a77e-a9151f170b76,,"Untitled Stop",35.163718,-80.667876
+remix_9bae151e-c91d-455b-b81d-b2dd829fd97e,,"Untitled Stop",35.160837,-80.670276
+remix_0ae921b8-1bf2-40eb-8ce1-6e7d4f7fac5b,,"Untitled Stop",35.157915,-80.672602
+remix_e9f9a44c-ed0a-4bbc-bc39-9588af0927c5,,"Untitled Stop",35.154998,-80.674935
+remix_8265659e-40bc-4162-8676-22a43a13f8bb,,"Untitled Stop",35.152748,-80.678126
+remix_39a4c04a-8012-49ca-9bfa-17cd584436ba,,"Untitled Stop",35.149754,-80.680127
+remix_22a6a95d-8c96-4b58-b551-ef8967a09a04,,"Untitled Stop",35.146346,-80.681023
+remix_c84e61a3-6379-4876-b9d1-67abb4b69c65,,"Untitled Stop",35.142939,-80.681923
+remix_b1d18389-0834-4ea0-b412-9e1ac42d01e4,,"Untitled Stop",35.139530,-80.682832
+remix_3136cdb2-918e-478d-bc8d-37a95a19689d,,"Untitled Stop",35.136191,-80.683688
+remix_92c7cada-c07f-469c-9928-b6a4ee104607,,"Untitled Stop",35.132760,-80.684438
+remix_9148343d-b178-4080-889a-0c98c0c12c9b,,"Untitled Stop",35.129427,-80.685592
+remix_f2850c24-8f2a-49d0-a69e-1c60496402b0,,"Untitled Stop",35.126710,-80.688179
+remix_aaaa4c21-1c45-435d-a219-021cd8e99353,,"Untitled Stop",35.124646,-80.691293
+remix_edbb3768-35a3-4f16-9b3d-64c5f1f61d06,,"Untitled Stop",35.126351,-80.694784
+remix_954e64ce-4623-4f1b-9ae9-a2200c0d9af2,,"Untitled Stop",35.127879,-80.698629
+remix_61816bef-06af-4096-a556-b739c92570aa,,"Untitled Stop",35.127506,-80.702857
+remix_909f57ad-fa2f-46b7-a135-34dd2baa22b3,,"Untitled Stop",35.123066,-80.709380
+41135,,"Matthews Township Pkwy & Paces Ave",35.122019,-80.713181
+remix_25af5632-afb1-44d7-ae11-6e70c9afb539,,"Untitled Stop",35.122036,-80.717035
+remix_bf285dd7-2c84-4644-a14d-d72f7eeb80ba,,"Untitled Stop",35.122503,-80.726937
+remix_605dcf98-4fad-451b-acb2-26506cb6a5f5,,"Untitled Stop",35.122726,-80.723334
+remix_80aebe8a-8ca4-44e4-98c6-aac41312aeba,,"Untitled Stop",35.121694,-80.719851
+40159,,"Matthews Township Pkwy & Sam Newell Rd",35.121801,-80.716137
+41130,,"Matthews Township Pkwy & Paces Ave",35.121832,-80.713185
+remix_41fc8668-f833-4624-83c0-4f507983ccfd,,"Untitled Stop",35.122762,-80.709211
+remix_7cdf8708-c00c-4bf1-92ba-32a761cc06b0,,"Untitled Stop",35.127159,-80.702855
+remix_7c17ec0b-fa62-4814-b11f-2055578cda80,,"Untitled Stop",35.127596,-80.698780
+remix_b9ac30c8-9c09-499f-866b-0c3a7306f020,,"Untitled Stop",35.126148,-80.695041
+remix_0f531462-223b-476a-b776-6506d32579f6,,"Untitled Stop",35.124344,-80.691473
+remix_894d53df-dcdd-4a08-ab43-a6d5d4d82fdd,,"Untitled Stop",35.126304,-80.688144
+remix_2ac35200-1441-495e-9c8c-b08c8e297744,,"Untitled Stop",35.129075,-80.685601
+remix_aa7caf9b-a750-4a2a-8810-e3ad0264d124,,"Untitled Stop",35.132392,-80.684334
+remix_22ab4acb-cfdd-4d79-a854-211a74ef9aed,,"Untitled Stop",35.135800,-80.683580
+remix_0b1a8165-80c8-4883-bcc7-43968def4372,,"Untitled Stop",35.139104,-80.682758
+remix_595e5a14-6016-4887-b299-677377e72fbb,,"Untitled Stop",35.142491,-80.681856
+remix_08cfeec7-39b9-4f3e-a930-3fa5383ee5ef,,"Untitled Stop",35.145872,-80.680965
+remix_281c54a4-af52-4232-9d0d-51930de60ad9,,"Untitled Stop",35.149253,-80.680064
+remix_fc335cae-0fe5-47f8-be88-3411c299b93a,,"Untitled Stop",35.152316,-80.678499
+remix_53f2aef7-6864-4757-9875-5246534c546c,,"Untitled Stop",35.154485,-80.675183
+remix_1f986928-d869-44ab-b1ff-75309dd2c3eb,,"Untitled Stop",35.157364,-80.672816
+remix_16d015e0-7b39-4101-a862-bd2c59b8164d,,"Untitled Stop",35.160264,-80.670504
+remix_1c5ad878-df37-4ecf-ba3f-05d43f47fb62,,"Untitled Stop",35.163127,-80.668132
+remix_e87616b5-606c-4947-accd-3a8b85b5e946,,"Untitled Stop",35.166198,-80.666160
+remix_2a1726a3-65bc-4168-a1fe-5bbff6703504,,"Untitled Stop",35.168906,-80.663691
+remix_d569e322-7b63-43e6-be08-b6c17f3acdc8,,"Untitled Stop",35.171107,-80.660452
+60956,,"Alumni Way West",35.302673,-80.737579
+60924,,"Hunt Hall",35.301205,-80.735443
+60940,,"Levine Hall West",35.302570,-80.732513
+60930,,"Reese East",35.304321,-80.732689
+60945,,"Cone Deck West",35.304272,-80.734596
+60931,,"Robinson Hall",35.303524,-80.729424
+60932,,"Cato Hall",35.305397,-80.728134
+60916,,"Fretwell North",35.307652,-80.729248
+60937,,"Fretwell South",35.307014,-80.729446
+60909,,"Auxillary Services E",35.308083,-80.730179
+60908,,"Student Union E",35.308105,-80.733246
+60943,,"Belk Hall S",35.310242,-80.736099
+60942,,"UNCC Light Rail",35.311878,-80.733627
+60941,,"Student Health W",35.311584,-80.730469
+60911,,"Student Health N",35.310802,-80.729263
+60948,,"North Deck",35.313240,-80.731972
+60933,,"Belk Hall N",35.309616,-80.736343
+60912,,"Martin Hall",35.310528,-80.727158
+60913,,"Lot 6",35.308842,-80.725098
+60914,,"Lot 5A",35.307213,-80.725159
+60915,,"East Deck 2",35.306419,-80.726608
+60906,,"Athletics Complex",35.307331,-80.739471
+60921,,"Epic North",35.309410,-80.741432
+60905,,"Epic South",35.309971,-80.741852
+60922,,"Grigg Hall",35.311195,-80.741302
+60955,,"Motor Sports",35.312832,-80.741196
+60923,,"Portal West",35.311367,-80.742767
+60901,,"CRI Deck",35.309555,-80.744705
+60957,,"Football Stadium",35.309029,-80.740417
+remix_eff4a6c6-7e03-4af1-b5f7-06ab70204285,,"Sunnyside",35.219656,-80.818731
+remix_9d86d008-6d00-4455-b6f0-153014c9218c,,"Hawthorne and 8th",35.216610,-80.820939
+51011,,"Hawthorne Ln & 5th St CityLynx",35.213789,-80.824538
+51009,,"Elizabeth Av & Hawthorne Ln CityLynx",35.213654,-80.826464
+51007,,"CPCC CityLynx",35.217414,-80.831112
+51005,,"McDowell St CityLynx",35.221179,-80.836001
+51003,,"Davidson St CityLynx",35.222770,-80.837829
+51001,,"CTC/Arena CityLynx",35.224760,-80.840218
+remix_98075b2d-265f-4882-b586-1ce18146d556,,"Trade  & Tryon",35.227280,-80.843013
+remix_623567ea-8563-4bf0-b211-169d2f22d379,,"Mint Street",35.229427,-80.845889
+remix_37ff9ec5-2074-4426-8833-cecaa47df46f,,"Charlotte Gateway Station",35.231326,-80.847564
+remix_0bfc16ed-544b-4baa-bc34-14dbc743fc9c,,"Johnson & Wales",35.233510,-80.850526
+remix_49630fe7-5040-402e-8afd-4423a5efc60d,,"Irwin Avenue",35.234997,-80.852610
+remix_2056d475-5310-484b-ac17-c5f4f3d97473,,"Wesley Heights Way",35.237155,-80.858694
+remix_43e253a9-8f99-490a-b411-b78bad2b1af7,,"Bruns Avenue",35.239857,-80.858397
+remix_cc30af7a-b964-4678-80ef-28c21f4099e5,,"Johnson C. Smith University",35.242952,-80.858324
+remix_9cc4345b-5531-4ac1-a84a-adefabd3e7cc,,"CityLYNX French St",35.246668,-80.856715
+51000,,"CTC/Arena CityLynx",35.224458,-80.839865
+51002,,"Davidson St CityLynx",35.222702,-80.837800
+51004,,"McDowell St CityLynx",35.221118,-80.835985
+51006,,"CPCC CityLynx",35.217582,-80.831506
+51008,,"Elizabeth Av & Hawthorne Ln CityLynx",35.213583,-80.826489
+51010,,"Hawthorne Ln & 5th St CityLynx",35.213783,-80.824527
+69901,,"Airport Terminal",35.221367,-80.945297
+70004,,"Airport",35.235497,-80.943591

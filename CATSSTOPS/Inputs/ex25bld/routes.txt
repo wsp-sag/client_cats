@@ -1,0 +1,10 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+1558b07e,1,62x,Rea Road Express,3,cc9b00,ffffff
+23d6dcc0,1,88x,Mountain Island Express,3,cc9b00,ffffff
+7386d969,1,47x,Huntersville Greenhouse Express,3,cc9b00,ffffff
+9857164f,1,41x,Steele Creek Express,3,cc9b00,ffffff
+9c046e15,1,61x,Arboretum Express,3,cc9b00,ffffff
+b184d58f,1,77X,North Meck Express,3,cc9b00,ffffff
+b3b1c05a,1,,63x-Huntersville,3,cc9b00,ffffff
+c2cc22b2,1,48x-Northcross,Express,3,cc9b00,ffffff
+f8684116,1,46x,Harrisburg Road Express,3,cc9b00,ffffff

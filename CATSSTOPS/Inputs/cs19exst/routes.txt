@@ -1,0 +1,12 @@
+route_id,route_short_name,route_long_name,route_desc,route_type
+211,211,Hidden Valley,,3
+221,221,E. Harris Blvd-Idlewild Rd,,3
+222,222,Pence Road,,3
+235,235,Goodwill/Amay James,,3
+251,251,UNCC Green,,3
+252,252,UNCC Silver,,3
+253,253,UNCC Gold,,3
+87,87,CityLYNX Connector,,3
+97,97,Village Rider-Cornelius,,3
+98,98,Village Rider-McCoy Road,,3
+99,99,Village Rider-Huntersville,,3

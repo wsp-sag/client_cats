@@ -1,0 +1,5 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+2ad0ba23,1,82x,Rock Hill Express,3,cc9b00,ffffff
+2ba258f9,1,83x,Mooresville Exp,3,CC9B00,ffffff
+2c672e51,1,85x,Gastonia Express,3,b10086,ffffff
+8b6c63dc,1,74x,Union County Express,3,0071ca,ffffff

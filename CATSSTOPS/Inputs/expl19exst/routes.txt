@@ -1,0 +1,4 @@
+route_id,route_short_name,route_long_name,route_desc,route_type
+74x,74x,Union County Express,,3
+82x,82x,Rock Hill Express,,3
+85x,85x,Gastonia Express,,3

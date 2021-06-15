@@ -1,0 +1,14 @@
+route_id,route_short_name,route_long_name,route_desc,route_type
+40x,40x,Lawyers Road Express,,3
+41x,41x,Steele Creek Express,,3
+46x,46x,Harrisburg Road Express,,3
+47x,47x,Huntersville Greenhouse Express,,3
+48x,48x,Northcross Express,,3
+52x,52x,Idlewild Road Express,,3
+53x,53x,Northlake Express,,3
+61x,61x,Arboretum Express,,3
+62x,62x,Rea Road Express,,3
+64x,64x,Independence Blvd Express,,3
+65x,65x,Matthews Express,,3
+77x,77x,North Mecklenburg Express,,3
+88x,88x,Mountain Island Express,,3

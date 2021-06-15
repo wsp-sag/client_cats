@@ -1,0 +1,343 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon
+45601,,Rea Rd @ St. Matthews Church Park & Ride,35.056231,-80.812608
+46688,,Elm Ln & Williams Pond Ln,35.053938,-80.814365
+24370,,Rea Rd & Piper Station Dr,35.061197,-80.813481
+24350,,Rea Rd & Piper Glen Dr,35.067162,-80.817795
+24340,,Rea Rd & Old Course Dr,35.071279,-80.819251
+24330,,Rea Rd & Bevington Pl,35.078366,-80.816507
+24320,,Rea Rd @ Calvary Park & Ride,35.081935,-80.813474
+24316,,Rea Rd & Pineville-Matthews Rd,35.086301,-80.811863
+44115,,Rea Rd & Sundancer Ln,35.089414,-80.811335
+44117,,Rea Rd & Five Knolls Dr,35.092918,-80.810514
+24300,,Rea Rd & Carmel Estates Rd,35.096827,-80.809615
+24290,,Rea Rd & Macandrew Dr,35.100007,-80.808863
+24280,,Rea Rd & Reacroft Dr,35.103905,-80.80795
+24282,,Colony Rd & Wisley Blvd,35.106585,-80.808096
+24283,,Colony Rd & Abbotswood Dr,35.11408,-80.804805
+24286,,Colony Rd & Morrowick Rd,35.119203,-80.807748
+04570,,Carmel Rd & Camilla Dr,35.133201,-80.807718
+04560,,Carmel Rd & Thornridge Rd,35.135303,-80.806037
+04550,,Carmel Rd & Sharon View Rd,35.139034,-80.802824
+04540,,Carmel Rd & Crooked Oak Ln,35.141426,-80.801612
+04530,,Carmel Rd & Wandering Way Dr,35.144708,-80.801404
+04520,,Carmel Rd & Carmel Park Ln,35.14727,-80.801745
+10550,,Fairview Rd & Oglukian Rd,35.151455,-80.797896
+38150,,Sardis Rd & Coventry Row Ct,35.156942,-80.792432
+24190,,Randolph Rd & Sardis Rd,35.160764,-80.787432
+24160,,Randolph Rd & Shasta Ln,35.163752,-80.791999
+24130,,Randolph Rd & Rembrandt Cir,35.165843,-80.794274
+24110,,Randolph Rd & Hunter Ln,35.168423,-80.795231
+24080,,Randolph Rd @ 4801,35.171499,-80.79644
+24050,,Randolph Rd & Gaynor Rd,35.174636,-80.797661
+24030,,Randolph Rd & Sharon Amity Rd,35.176515,-80.798656
+23760,,Randolph Rd & Billingsley Rd,35.191216,-80.810875
+07520,,4th St & Hawthorne Ln,35.211622,-80.825667
+07500,,4th St & Torrence St,35.213273,-80.827951
+07480,,4th St & Kings Dr,35.215738,-80.831425
+45768,,4th St & McDowell St,35.220686,-80.837385
+07380,,4th St & Davidson St,35.222016,-80.839027
+32550,,Transit Center- Bay X,35.224447,-80.841852
+25650,,4th St & Tryon St,35.226379,-80.843945
+05710,,Church St & 3rd St,35.226847,-80.846066
+05690,,Church St & 1st St,35.225307,-80.848352
+59581,,Johnson & Wales Way @ Doubletree,35.23359,-80.852415
+59580,,Johnson & Wales Way & 4th St,35.233147,-80.852583
+45010,,3rd St & Tryon St,35.225766,-80.845539
+45011,,3rd St & College St,35.224742,-80.844335
+08220,,3rd St & Brevard St,35.223492,-80.842991
+08230,,3rd St & Davidson St,35.221474,-80.840529
+08250,,3rd St & McDowell St,35.218933,-80.837783
+08260,,3rd St & Kings Dr,35.214431,-80.831634
+45825,,3rd St & Torrence St,35.212609,-80.829527
+42280,,3rd St & Queens Rd,35.210982,-80.827983
+07540,,4th St & Hawthorne Ln,35.211657,-80.825885
+23770,,Randolph Rd & Billingsley Rd,35.191206,-80.811048
+23980,,Randolph Rd & Sharon Amity Rd,35.174628,-80.797814
+38200,,Randolph Rd & Randolph Oaks Ct,35.171536,-80.796598
+24090,,Randolph Rd & Beckham Ct,35.168785,-80.795497
+24150,,Randolph Rd & Willhaven Dr,35.164083,-80.792502
+38060,,Randolph Rd & Sardis Rd,35.160485,-80.787336
+38106,,Sardis Rd & Providence Rd,35.156324,-80.793489
+38100,,Fairview Rd & Providence Rd,35.153808,-80.795612
+38080,,Carmel Rd & Carmel Park Ln,35.146788,-80.801784
+38070,,Carmel Rd & Wandering Way Dr,35.144227,-80.801423
+42360,,Carmel Rd & Crooked Oak Ln,35.141398,-80.801705
+37790,,Carmel Rd & Sharon View Rd,35.139262,-80.802802
+37800,,Carmel Rd & Town & Country Dr,35.135322,-80.806087
+37810,,Carmel Rd & Camilla Dr,35.133596,-80.807377
+24287,,Colony Rd & Morrowick Rd,35.119442,-80.807962
+24284,,Colony Rd & Abbotswood Dr,35.114183,-80.804956
+24281,,Colony Rd & Wisley Blvd,35.106523,-80.808235
+24285,,Rea Rd & Reacroft Dr,35.103775,-80.808193
+37690,,Rea Rd & Macandrew Dr,35.100024,-80.809107
+37700,,Rea Rd & Carmel Estates Rd,35.096782,-80.809874
+44118,,Rea Rd & Five Knolls Dr,35.092863,-80.810745
+37720,,Rea Rd & Sundancer Ln,35.089348,-80.811599
+24315,,Rea Rd & Pineville-Matthews Rd,35.086265,-80.812086
+37770,,Rea Rd @ Calvary Park & Ride,35.081807,-80.814324
+37760,,Rea Rd & Bevington Pl,35.078376,-80.816755
+37764,,Rea Rd & Old Course Dr,35.071051,-80.819423
+37762,,Rea Rd & Piper Glen Dr,35.067104,-80.818015
+24360,,Rea Rd & Ballantyne Commons Pkwy,35.059808,-80.812865
+23990,,Randolph Rd & Greenwich Rd,35.178038,-80.800658
+23960,,Randolph Rd & Woodlark Ln,35.179429,-80.802646
+23910,,Randolph Rd & Canterbury Rd,35.18187,-80.805532
+23790,,Randolph Rd & Wendwood Ln,35.188117,-80.810083
+23780,,Randolph Rd @ Randolph Park,35.192913,-80.810966
+23991,,Randolph Rd & Sam Drenan Rd,35.198286,-80.810965
+23720,,Randolph Rd & Cranbrook Ln,35.200296,-80.813634
+23700,,Randolph Rd & Dotger Ave,35.202683,-80.816677
+23670,,Randolph Rd & Laurel Ave,35.204848,-80.818842
+23660,,Randolph Rd & Van Ness St,35.205721,-80.819635
+23620,,Randolph Rd & Chase St,35.207496,-80.821355
+23590,,Randolph Rd & Caswell Rd,35.210376,-80.824085
+07565,,Randolph Rd & Caswell Rd,35.210395,-80.824276
+23610,,Randolph Rd & Colonial Ave,35.208637,-80.822569
+23615,,Randolph Rd & Chase St,35.207599,-80.821579
+23650,,Randolph Rd & Van Ness St,35.205804,-80.819837
+23680,,Randolph Rd & Laurel Ave,35.203956,-80.818072
+23690,,Randolph Rd & Dotger Ave,35.202851,-80.817019
+23710,,Randolph Rd & Museum Plaza,35.200297,-80.813762
+23800,,Randolph Rd & Meadowbrook Rd,35.187818,-80.810056
+23860,,Randolph Rd & Canterbury Rd,35.182358,-80.806142
+23940,,Randolph Rd & Cheltenham Rd,35.179517,-80.80302
+24020,,Randolph Rd & Sharon Amity Rd,35.176723,-80.799096
+45749,,4th St & Church St,35.226785,-80.844501
+38420,,4th St & Poplar St,35.227629,-80.845557
+59591,,4th St & Cedar St,35.231507,-80.850143
+45082,,Brookshire Blvd & Hoskins Rd,35.267183,-80.882044
+12361,,Brookshire & Hovis,35.278991,-80.894758
+59520,,Bellhaven Blvd & Brookshire Blvd,35.29817,-80.922322
+45080,,Bellhaven Blvd & Rozwood Dr,35.304611,-80.937681
+45603,,Bellhaven Blvd & Mt Holly-Huntersville Rd,35.320689,-80.952303
+46506,,Mt Holly-Huntersville Rd & Couloak Dr,35.323612,-80.948297
+46507,,Callabridge Ct @ Walmart,35.32775,-80.945113
+46508,,Callabridge Ct @ Walmart (back),35.32954,-80.947581
+46518,,Callabridge Ct @ Walmart,35.327619,-80.945093
+46505,,Mt Holly-Huntersville Rd & Couloak Dr,35.324047,-80.947593
+45602,,Bellhaven Blvd & Bellhaven Cir,35.31985,-80.951684
+45081,,McClure Cir & Bellhaven Blvd,35.304009,-80.93599
+59530,,Bellhaven Blvd & Brookshire Blvd,35.298139,-80.922716
+52780,,Brookshire & Hovis,35.279845,-80.896527
+45091,,Brookshire Blvd & Hoskins Rd,35.26714,-80.882311
+59590,,4th St & Cedar St,35.231797,-80.850783
+08240,,3rd St @ Marshall Park,35.22004,-80.838876
+60130,,JW Clay Station Bay,35.311231,-80.746008
+45097,,Tryon St @ UNCC Research Center,35.313115,-80.742569
+19120,,Tryon St @ 9528 (Hight Veterinary),35.31608,-80.73942
+45856,,Mallard Creek Church & Alexander Pointe,35.323082,-80.736073
+60170,,Mallard Creek Church & Berkeley Place,35.327464,-80.737403
+60340,,Metrolina Greenhouses,35.421057,-80.777043
+60171,,Mallard Creek Church Rd & Pinnacle Dr,35.328601,-80.738031
+19130,,N Tryon St @ Cookout,35.317825,-80.738069
+19110,,Tryon St & Barton Creek Dr,35.315413,-80.740488
+46695,,CMC Steelecroft,35.100034,-80.992048
+52251,,Walker Branch Dr & Steele Creek Rd,35.098867,-80.986835
+46701,,Rivergate Pkwy & Tryon St,35.102205,-80.983373
+46162,,Tryon St & Choate Rd,35.108223,-80.977994
+46163,,Tryon St & Erwin Rd,35.111403,-80.972592
+46164,,Tryon St & Savannah Club Dr,35.113485,-80.967275
+46328,,Tryon St & Moss Rd,35.11466,-80.963402
+52421,,Tryon St & South Point Bv,35.115986,-80.960117
+46165,,Tryon St & Carowinds Blvd,35.117905,-80.956203
+46166,,Tryon St & General Dr,35.1217,-80.948397
+52271,,S Tryon St & Nevada Bv,35.123975,-80.944711
+46167,,Tryon St & Westinghouse Blvd,35.127712,-80.942417
+46168,,Tryon St & Westinghouse Blvd,35.131103,-80.941014
+26430,,Tryon St & Sandy Porter Rd,35.134218,-80.939382
+44885,,Tryon St @ 8951,35.136495,-80.93771
+42365,,Whitehall Commons Dr @ Lowe's,35.144316,-80.931241
+45403,,Whitehall Commons @ Wal-Mart,35.146122,-80.936019
+45758,,Arrowood Rd @ 2570,35.147466,-80.930168
+46169,,Tryon St & Arrowood Rd,35.147963,-80.925703
+46170,,Tryon St & Thornfield Rd,35.153676,-80.923425
+46171,,Tryon St & Yorkdale Dr,35.156513,-80.922395
+46172,,Tryon St & Land Grant Rd,35.160579,-80.91887
+52770,,Tryon & Shopton,35.162484,-80.915953
+46173,,Tryon St & Tyvola Centre Dr,35.16491,-80.91177
+46423,,Tryon St & Tyvola Rd,35.169432,-80.90492
+46356,,Tryon St & Queen Anne Rd,35.171151,-80.90222
+46109,,Tryon St & Southampton Rd,35.173096,-80.898838
+46110,,Tryon St & Kingman Dr,35.175007,-80.895204
+46111,,Tryon St & Yorkmont Rd,35.178189,-80.89156
+59660,,4th St & Graham St,35.229382,-80.847612
+45090,,Tryon St & Yorkmont Rd,35.17812,-80.891893
+45100,,Tryon St & Kingman Dr,35.175206,-80.895112
+45110,,Tryon St & Southampton Rd,35.173258,-80.898765
+45120,,Tryon St & Queen Anne Rd,35.171416,-80.901969
+52740,,S Tryon St & Tyvola Rd,35.168495,-80.906601
+46150,,Tryon St & Tyvola Centre Dr,35.16512,-80.911725
+52760,,Tryon St & Shopton Rd,35.162816,-80.915696
+46151,,Tryon St & Courtney Oaks Rd,35.16091,-80.91864
+46152,,Tryon St & Yorkdale Dr,35.156912,-80.922398
+46153,,Tryon St & Thornfield Rd,35.152551,-80.924078
+46154,,Tryon St & Arrowood Rd,35.148278,-80.925784
+45760,,Arrowood Rd @ 2550,35.147628,-80.92971
+44415,,Whitehall Commons @ Wal-Mart,35.146389,-80.936123
+44175,,Whitehall Commons Dr @ Lowe's,35.144253,-80.93138
+44905,,Tryon St & Bethany Brook Ln,35.137874,-80.936555
+44895,,Tryon St & Sandy Porter Rd,35.134117,-80.939688
+45480,,Tryon St & Township Rd,35.131982,-80.940868
+46155,,Tryon St & Westinghouse Blvd,35.128808,-80.942208
+52270,,Tryon St & Nevada Bv,35.123734,-80.945335
+46156,,Tryon St & General Dr,35.121559,-80.949146
+46157,,Tryon St & John Price Rd,35.117076,-80.958381
+46327,,Tryon St & Moss Rd,35.11506,-80.962684
+52420,,Tryon St & Mother Theresa Villas,35.114193,-80.965656
+46158,,Tryon St & Garden Oaks Ln,35.113406,-80.968011
+46159,,Tryon St & Erwin Rd,35.111713,-80.972476
+46160,,Tryon St & Choate Rd,35.108405,-80.978122
+46700,,Rivergate Pkwy & Tryon St,35.102014,-80.983849
+52250,,Walker Branch Dr & Steele Creek Rd,35.098974,-80.986804
+60480,,Waverly Park and Ride,35.049622,-80.768194
+45319,,Providence Rd & McKee Rd,35.065859,-80.770159
+45327,,Providence Rd & Alexa Rd,35.070295,-80.773267
+46482,,Providence Rd & Ashleytown Ln,35.074665,-80.772694
+52700,,Providence Rd & Kuykendall Rd,35.07887,-80.772051
+23032,,Arboretum Cinemas Park & Ride,35.099193,-80.78063
+23010,,Providence Rd & Pineville-Matthews Rd,35.101475,-80.778894
+22990,,Providence Rd @ Arboretum Apts,35.103988,-80.779029
+22970,,Providence Rd & Beverly Crest Blvd,35.107844,-80.778604
+22950,,Providence Rd & Cedar Croft Dr,35.114509,-80.778763
+22930,,Providence Rd & Alexander Rd,35.115948,-80.779006
+22910,,Providence Rd & Hamilton Hill Rd,35.122463,-80.780362
+22890,,Providence Rd & Outer Bridge Ln,35.124156,-80.780703
+22880,,Providence Rd & Summertree Ln,35.126272,-80.780933
+42245,,Providence Rd @ Heatherwood Apts,35.129329,-80.781257
+22850,,Providence Rd @ Heatherwood Apts,35.132561,-80.781606
+22840,,Providence Rd & International Dr,35.135235,-80.782524
+22820,,Providence Rd & Sardis Ln,35.138321,-80.783859
+22800,,Providence Rd & Folger Dr,35.141218,-80.78512
+22760,,Providence Rd & Pine Tree Dr,35.143602,-80.786723
+22750,,Providence Rd & East Barden Rd,35.145624,-80.788599
+22735,,Providence Rd & Shalom Park Dr,35.147681,-80.790389
+22730,,Providence Rd & Jefferson Dr,35.148886,-80.791371
+22720,,Providence Rd & Creola Rd,35.150117,-80.792318
+22670,,Providence Rd & Mammoth Oaks Dr,35.152543,-80.79363
+22660,,Providence Rd & Old Sardis Rd,35.155391,-80.795593
+22650,,Providence Rd @ Camden Pinehurst Apts,35.156942,-80.797059
+22620,,Providence Rd & Meadowood Ln,35.161409,-80.800478
+22600,,Providence Rd & Cavendish Ct,35.16295,-80.801409
+42135,,Providence Rd & Huntington Park Dr,35.165176,-80.802706
+22560,,Providence Rd & Westbury Rd,35.16817,-80.804479
+46483,,Providence Rd & Sharon Amity Rd,35.170158,-80.806768
+22520,,Providence Rd & Sharon Amity Rd,35.172135,-80.809464
+22470,,Providence Rd & Andover Rd,35.174831,-80.8137
+22450,,Providence Rd & Wendover Rd,35.176949,-80.81687
+23600,,Randolph Rd & Colonial Ave,35.208945,-80.822717
+42284,,Providence Rd & Caswell Rd,35.208853,-80.825173
+22510,,Providence Rd & Sharon Amity Rd,35.172107,-80.809684
+22530,,Providence Rd & Brookridge Ln,35.170141,-80.807058
+22540,,Providence Rd & Greentree Dr,35.168535,-80.805029
+22550,,Providence Rd & Rutledge Ave,35.167077,-80.80402
+22580,,Providence Rd & Huntington Park Dr,35.165035,-80.802797
+22570,,Providence Rd & Cavendish Ct,35.163231,-80.801713
+22590,,Providence Rd & Cloister Dr,35.161336,-80.800586
+22610,,Providence Rd & Strawberry Hill Dr,35.157959,-80.7983
+22630,,Providence Rd @ Camden Pinehurst Apts,35.157091,-80.797351
+22640,,Providence Rd & Fairview Rd,35.156222,-80.796471
+22690,,Providence Rd & Provence Village Ln,35.152048,-80.793646
+45440,,Providence Rd & Cedar Ln,35.150873,-80.793048
+22710,,Providence Rd & Greylyn Dr,35.149288,-80.791845
+22715,,Providence Rd & Shalom Park Dr,35.14695,-80.790063
+22740,,Providence Rd & East Barden Rd,35.145431,-80.788605
+22770,,Providence Rd & Old Farm Rd,35.143089,-80.786453
+22780,,Providence Rd & Brockton Ln,35.141862,-80.785583
+42185,,Providence Rd & Sardis Ln,35.137788,-80.783787
+22810,,Providence Rd & International Dr,35.134762,-80.78252
+22860,,Providence Rd @ Heatherwood Apts,35.132544,-80.781803
+42250,,Providence Rd @ 6020,35.129866,-80.781507
+22870,,Providence Rd & Summertree Ln,35.126647,-80.781186
+22900,,Providence Rd & Outer Bridge Ln,35.123962,-80.780866
+22920,,Providence Rd & Lynbridge Dr,35.122014,-80.780472
+22940,,Providence Rd & Rea Rd,35.116336,-80.779348
+22960,,Providence Rd & Cedar Croft Dr,35.114215,-80.778914
+22980,,Providence Rd & Candlewyck Ln,35.108634,-80.778682
+23000,,Providence Rd & Azalea Ridge Rd,35.103872,-80.779227
+23020,,Providence Rd & Pineville-Matthews Rd,35.101269,-80.77911
+52701,,Providence Rd & Kuykendall Rd,35.079828,-80.772329
+46481,,Providence Rd & Ashleytown Ln,35.074506,-80.773014
+45349,,Providence Rd & Berkeley Greene Dr,35.068902,-80.772775
+45321,,Providence Rd & Ballantyne Commons Pkwy,35.065447,-80.77027
+46497,,Davidson Gateway Dr & Griffith St,35.501495,-80.864487
+46454,,Davidson Gateway Dr & Southeast Dr,35.499349,-80.862996
+41252,,Davidson Gateway Dr & Jetton St,35.499015,-80.860463
+46440,,Griffith St & Grocery Ln,35.502135,-80.860651
+41256,,Griffith St & Sloan St,35.502798,-80.852886
+40320,,Main St & Concord Rd,35.498745,-80.848728
+41959,,Main St @ Davidson Town Hall,35.497693,-80.849598
+40300,,Main St & Catawba Ave,35.495862,-80.85294
+52190,,Main St & Eugenia St,35.494742,-80.853368
+40280,,Main St & Cornelius St,35.491564,-80.857596
+40260,,Main St & McCall St,35.489786,-80.857945
+40240,,Main St & Legion St,35.487443,-80.858446
+40220,,Main St & Railroad St,35.482595,-80.858281
+45126,,Catawba Ave & Mulberry St,35.482438,-80.861362
+04933,,Catawba Ave & Washam St,35.483147,-80.864419
+04940,,Catawba Ave & Ferry St,35.484076,-80.869016
+04935,,Catawba Ave & Ferry St,35.484074,-80.869839
+40530,,Catawba Ave & Torrence Chapel Rd,35.482999,-80.878678
+59500,,Cornelius Park & Ride,35.480211,-80.882614
+37410,,Church St & 9th St,35.232342,-80.838232
+60020,,Church St & 6th St,35.229836,-80.841826
+place_MDL4TH,,4th & McDowell,35.221278,-80.838247
+25270,,Brevard St & Martin Luther King Jr Blvd,35.222573,-80.843063
+37380,,College St & 2nd St,35.22366,-80.845635
+25360,,College St & 3rd St,35.224455,-80.844508
+place_TRANCT,,Charlotte Transportation Center,35.224463,-80.841077
+25310,,College St & 6th St,35.227712,-80.839776
+25390,,College St & 8th St,35.229222,-80.837706
+25410,,College St & 11th St,35.231073,-80.835132
+04932,,Catawba Ave & Washam St,35.483168,-80.864884
+45127,,Catawba Ave & Meridian St,35.482383,-80.861534
+40230,,Main St & Railroad St,35.48264,-80.858208
+40250,,Main St & Legion St,35.487366,-80.858397
+40270,,Main St & Pecan St,35.489781,-80.857895
+40290,,Main St & Cornelius St,35.491861,-80.857418
+52191,,Main St & Eugenia St,35.495087,-80.853163
+52199,,Main St & Walnut St,35.496972,-80.851119
+45131,,Depot St & Jackson St,35.500809,-80.850258
+33980,,Watson St & Griffith St,35.502192,-80.850484
+46554,,Griffith St & Lakeside Ave,35.502996,-80.856303
+46441,,Griffith St & Grocery Ln,35.5023,-80.860837
+11015,,Huntersville Gateway Park & Ride,35.413539,-80.857071
+45363,,Northcross Park & Ride,35.448334,-80.871575
+40681,,Sam Furr Rd & Northcross Dr,35.442671,-80.873332
+remix_fdcc95d1-bec5-4334-b949-7fa8eeda7e87,,Find new stop,35.221122399029,-80.8457184619064
+40682,,Sam Furr Rd & Northcross Dr,35.442844,-80.873316
+25330,,College St & 4th St,35.225372,-80.843137
+49521,,Albemarle Rd & Sharon Amity Rd,35.201266,-80.761426
+49523,,Albemarle Rd & Redman Rd,35.203867,-80.750791
+15000,,Albemarle Rd & Central Av,35.203271,-80.746084
+00180,,Albemarle Rd & Executive Center Dr,35.203106,-80.743111
+45221,,Albemarle Rd & Farm Pond Ln,35.202844,-80.73782
+00230,,Albemarle Rd & Winterhaven Dr,35.202746,-80.734891
+00250,,Albemarle Rd & Regal Oaks Dr,35.202501,-80.731293
+00285,,Albemarle Rd & Lawyers Rd Park and Ride,35.20398,-80.724266
+00300,,Albemarle Rd & Lake Forest Rd East,35.204949,-80.718297
+00320,,Albemarle Rd & Lynton Blvd,35.207948,-80.70861
+45890,,Albemarle Rd & Nathanael Greene Ln,35.20946,-80.703295
+00330,,Albemarle Rd & Olde Savannah Rd,35.210402,-80.699484
+45874,,Albemarle Rd & Circumferential Rd,35.211363,-80.693041
+00340,,Albemarle Rd & Dwightware Blvd,35.211493,-80.690836
+11710,,Harrisburg Rd & Pence Rd,35.213725,-80.687087
+49350,,Harrisburg Rd & First Run Ct,35.229297,-80.678747
+49360,,Harrisburg Rd & Timbertop Ln,35.238877,-80.666797
+49370,,Cambridge Commons Dr @ 8100,35.252871,-80.657959
+49361,,Harrisburg Rd & Timbertop Ln,35.239095,-80.66678
+49351,,Harrisburg Rd & First Run Ct,35.229515,-80.678729
+38360,,Harrisburg Rd & Pence Rd,35.213341,-80.687203
+45320,,Albemarle Rd & Harrisburg Rd,35.211762,-80.689279
+38370,,Albemarle Rd & Circumferential Rd,35.211634,-80.692371
+38380,,Albemarle Rd & Olde Savannah Rd,35.210492,-80.699938
+45880,,Albemarle Rd & Faulconbridge Rd,35.209752,-80.70308
+38390,,Albemarle Rd & Lynton Blvd,35.208144,-80.708594
+38400,,Albemarle Rd & Lake Forest Rd East,35.2053,-80.717893
+00270,,Albemarle Rd & WT Harris Blvd,35.20246,-80.728142
+00260,,Albemarle Rd & Regal Oaks Dr,35.202699,-80.731277
+00240,,Albemarle Rd & Winterhaven Dr,35.202986,-80.735569
+00210,,Albemarle Rd & Farm Pond Ln,35.203087,-80.7377
+00170,,Albemarle Rd & Jenkins Dr,35.203334,-80.743471
+49524,,Albemarle Rd & Redman Rd,35.204182,-80.75096
+49520,,Albemarle Rd & Greenbrook Dr,35.200917,-80.763429
+30760,,Stonewall St & Mint St,35.225148,-80.8501

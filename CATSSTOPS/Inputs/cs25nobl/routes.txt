@@ -1,0 +1,19 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+14d6f128,1,99,Village Rider-Huntersville,3,049684,ffffff
+18a0cf71,1,221,Idlewild,3,049684,ffffff
+6bdac128,1,251,Levine,3,049684,ffffff
+6e376a96,1,207,Sunset Rd,3,049684,ffffff
+740f94f7,1,235,Goodwill / Amay James,3,049684,ffffff
+79650f09,1,211,Hidden Valley,3,049684,ffffff
+86a75a52,1,222,Pence Road,3,049684,ffffff
+8b4ff28c,1,97,Village Rider-Cornelius,3,049684,ffffff
+a49ca385,1,98,Village Rider-McCoy Road,3,049684,ffffff
+b5d62fc4,1,243,Blakeney,3,049684,ffffff
+cd8f225f,1,240,Mint Hill,3,049684,ffffff
+d131f326,1,208,Hovis-Moores Chapel,3,049684,ffffff
+f1d079b7,1,229,Pavilion,3,049684,ffffff
+fc91f5a0,1,290,Davidson Shuttle,3,005BAA,ffffff
+b23928f2,1,510,CityLynx Gold Line,0,C9500E,ffffff
+251,1,251,UNCC Green,3,,
+252,1,252,UNCC Silver,3,,
+253,1,253,UNCC Gold,3,,

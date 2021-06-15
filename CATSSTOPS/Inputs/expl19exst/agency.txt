@@ -1,0 +1,2 @@
+agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+"Charlotte Area Transit System",http://www.ridetransit.org,America/New_York,EN,"704-336-7433"

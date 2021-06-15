@@ -1,0 +1,51 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+062bb190,1,92,Selwyn Ave,3,005BAA,ffffff
+07095cb6,1,13,Nevin Road,3,005BAA,ffffff
+0a01d4fa,1,20,Sharon Road,3,005BAA,ffffff
+0ce40431,1,30,Woodlawn / Scaleybark / Crosstown,3,005BAA,ffffff
+15d96646,1,2,Ashley Rd,3,ad0101,ffffff
+18b2e2b5,1,54,University Research Park,3,005BAA,ffffff
+22207a93,1,4,Belmont,3,ad0101,ffffff
+2e874a35,1,55,Westinghouse,3,005BAA,ffffff
+2e994bc6,1,32,Mallard Creek,3,005BAA,ffffff
+3964aaaa,1,21,Statesville Ave,3,ad0101,ffffff
+3987ce81,1,5,Airport,3,ad0101,ffffff
+4b0ff404,1,43,Ballantyne,3,005BAA,ffffff
+599f6bab,1,19,Park Road,3,ad0101,ffffff
+5a85dd3b,1,16,South Tryon,3,ad0101,ffffff
+5d004133,1,24,Nations Ford Road,3,005BAA,ffffff
+617f1006,1,17,Matthews-Lawyers,3,005BAA,ffffff
+67d46649,1,14,Providence Road,3,ad0101,ffffff
+7f2a3bf8,1,42,Carowinds,3,005BAA,ffffff
+7f59bfae,1,93,Plaza Extension,3,005BAA,ffffff
+8d20fa13,1,95,Red Ventures,3,005BAA,ffffff
+91a46279,1,15,Randolph Road,3,ad0101,ffffff
+926bdb13,1,27,Monroe Road,3,ad0101,ffffff
+9639fb27,1,56,Arrowood,3,ad0101,ffffff
+96cfacaa,1,18,Paw Creek / Rosa Parks Crosstown,3,005BAA,ffffff
+a611d560,1,51,Pineville-Matthews Road,3,0071ca,ffffff
+a8e367cf,1,94,WT Harris Connector,3,005BAA,ffffff
+a9eb0bf7,1,60,Tyvola Road,3,ad0101,ffffff
+b011ad04,1,29-UNCC/JW,Clay,3,ad0101,ffffff
+b4a3df42,1,59,North Meck Connector,3,005BAA,ffffff
+b5e235b6,1,10,West Blvd,3,ad0101,ffffff
+b90600f4,1,11,North Tryon,3,005BAA,ffffff
+c2b2cf8f,1,1,Mt. Holly Road,3,AD0101,ffffff
+c4e3d492,1,8,Tuckaseegee Road,3,ad0101,ffffff
+cbb10c00,1,34,Freedom Drive,3,ad0101,ffffff
+d2d9a90b,1,90,Albemarle,3,005BAA,ffffff
+d58af8c8,1,3,The Plaza,3,ad0101,ffffff
+d798464b,1,12,South Boulevard,3,005BAA,ffffff
+e01e2df8,1,6,Kings Drive,3,ad0101,ffffff
+e1546a47,1,7,Beatties Ford,3,ad0101,ffffff
+e1f319c3,1,50,URP / CIC,3,cc9b00,ffffff
+e4320f44,1,58,Pineville,3,005BAA,ffffff
+e50c73c6,1,22,Graham Street,3,ad0101,ffffff
+f14cd780,1,39,Eastway,3,A92023,ffffff
+f35b6c0d,1,28,Fairview Road,3,005BAA,ffffff
+f52b1159,1,23,Shamrock Drive,3,005BAA,ffffff
+f721ff19,1,9,Central Avenue,3,ad0101,ffffff
+fb858ed5,1,35,Wilkinson-Amazon,3,cc9b00,ffffff
+fb8aec96,1,37,Rea Rd,3,005BAA,ffffff
+fcacbe7c,1,57,Archdale / South Park,3,005BAA,ffffff
+138d0466,1,501,Light Rail - Lynx Blue Line,1,0d7215,ffffff

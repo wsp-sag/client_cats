@@ -1,0 +1,29 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+038982ec,1,222,Pence Road,3,049684,ffffff
+06753594,1,Sam,Wilson - Amazon,3,005BAA,ffffff
+10f260b7,1,CPCC,Connector,3,5A8400,ffffff
+117cdd10,1,,Stallings,3,A92023,ffffff
+16aeff09,1,Gaston,County Circulator,3,066A40,ffffff
+19a8d0b2,1,208,Hovis-Moores Chapel,3,049684,ffffff
+1b7bf8fc,1,Grier,Heights-Cotswold,3,A72051,ffffff
+1bf1e6f4,1,235,Goodwill / Amay James,3,0071ca,ffffff
+4ac21535,1,99,Village Rider-Huntersville,3,049684,ffffff
+50405ee5,1,243,Blakeney,3,049684,ffffff
+596679b8,1,211,Hidden Valley,3,049684,ffffff
+5bf53a81,1,97,Village Rider-Cornelius,3,049684,ffffff
+6e6dae95,1,Briar,Creek Shuttle,3,066A40,ffffff
+73bff2dc,1,SW,Stallings,3,5A8400,ffffff
+881b96ff,1,229,Pavilion,3,049684,ffffff
+88c91c95,1,Matthews,Shuttle,3,C9500E,ffffff
+92948a22,1,221,Idlewild,3,005BAA,ffffff
+9901c1ff,1,98,Village Rider-McCoy Road,3,049684,ffffff
+beedd05d,1,240,Mint Hill,3,049684,ffffff
+c84dc8a3,1,207,Sunset Rd,3,049684,ffffff
+d912f2af,1,290,Davidson Shuttle,3,005BAA,ffffff
+e6f62e64,1,Margaret,Wallace,3,A72051,ffffff
+fe16510c,1,Mint,Hill Shuttle,3,5A8400,ffffff
+b23928f2,1,510,CityLynx Gold Line,0,C9500E,ffffff
+251,1,251,UNCC Green,3,,
+252,1,252,UNCC Silver,3,,
+253,1,253,UNCC Gold,3,,
+520,1,520,Airport People Mover,0,,

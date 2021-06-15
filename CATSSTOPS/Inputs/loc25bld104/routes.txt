@@ -1,0 +1,61 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+01f3e868,1,24,Nations Ford Road,3,005BAA,ffffff
+1515b543,1,9,Central Avenue,3,ad0101,ffffff
+1bf1e6f4,1,235,Goodwill / Amay James,3,0071ca,ffffff
+246b75fd,1,60,Tyvola Road,3,ad0101,ffffff
+26ff425b,1,Plaza,Midwood,3,007DBD,ffffff
+33da629e,1,15,Randolph Road,3,ad0101,ffffff
+3cea1e5e,1,42,Carowinds,3,005BAA,ffffff
+3d0c7cfa,1,39,Eastway,3,A92023,ffffff
+3e556f1a,1,28,Sharon Amity/SouthPark,3,005BAA,ffffff
+3fd11d39,1,7,Beatties Ford,3,ad0101,ffffff
+41cb855f,1,,Wendover-Woodlawn,3,5A8400,ffffff
+4d8a7157,1,3,The Plaza,3,ad0101,ffffff
+4e1ead26,1,27,Monroe Road,3,ad0101,ffffff
+4f08619c,1,92,Selwyn Ave,3,005BAA,ffffff
+56dee6ff,1,18,Paw Creek / Rosa Parks Crosstown,3,005BAA,ffffff
+57d03e94,1,55,Westinghouse,3,005BAA,ffffff
+60ec5a38,1,10,West Blvd,3,ad0101,ffffff
+640c0551,1,53x-Northlake,Express,3,cc9b00,ffffff
+657676f1,1,30,Woodlawn / Scaleybark / Crosstown,3,ce5504,ffffff
+7431ff15,1,2,Ashley Rd,3,5A8400,ffffff
+7c1d93b2,1,22,Graham Street,3,ad0101,ffffff
+7fc34ba3,1,River,District-Outlet,3,A92023,ffffff
+8201e408,1,57,Archdale / South Park,3,005BAA,ffffff
+859daed5,1,56,Arrowood,3,ad0101,ffffff
+86fd430b,1,51,Pineville-Matthews Road,3,066A40,ffffff
+8ac4c9ae,1,59,North Meck Connector,3,005BAA,ffffff
+92948a22,1,221,Idlewild,3,005BAA,ffffff
+974af3b4,1,Tyvola-Old,Steele Creek,3,005BAA,ffffff
+9857164f,1,41x,Steele Creek Express,3,cc9b00,ffffff
+99eaf0e3,1,12,South Boulevard,3,005BAA,ffffff
+9b16d266,1,32,Mallard Creek,3,005BAA,ffffff
+9d4e2465,1,13,Nevin Road,3,005BAA,ffffff
+a378accf,1,6,Kings Drive,3,ad0101,ffffff
+a5ae8c86,1,19,Park Road,3,AD0101,ffffff
+a5c2994d,1,95,Red Ventures,3,005BAA,ffffff
+a5e6df7f,1,93,Plaza Extension,3,005BAA,ffffff
+a77398f8,1,94,WT Harris Connector,3,005BAA,ffffff
+aaf79901,1,11,North Tryon,3,005BAA,ffffff
+ab1294a0,1,4,Belmont,3,ad0101,ffffff
+ac6509f3,1,Little,Rock Rd,3,007DBD,ffffff
+b9274528,1,1,Mt. Holly Road,3,AD0101,ffffff
+b9d4dc7a,1,20,Sharon Road,3,005BAA,ffffff
+bc86789e,1,21,Statesville Ave,3,ad0101,ffffff
+c8bafd01,1,43,Ballantyne,3,005BAA,ffffff
+cd2184f8,1,23,Shamrock Drive,3,005BAA,ffffff
+d7e05e59,1,54,University Research Park,3,005BAA,ffffff
+d912f2af,1,290,Davidson Shuttle,3,005BAA,ffffff
+d9d3612b,1,14,Providence Road,3,ad0101,ffffff
+dcbb5cc0,1,50,URP / CIC,3,cc9b00,ffffff
+dd5eecf2,1,8,Tuckaseegee Road,3,A72051,ffffff
+dd89beeb,1,17,East Harris-Crowne Point,3,066A40,ffffff
+e36c5fba,1,58,Pineville,3,005BAA,ffffff
+e68c63dd,1,34,Freedom Drive,3,ad0101,ffffff
+edc481de,1,29-UNCC/JW,Clay,3,ad0101,ffffff
+f572fc9a,1,,Fairview-Rama,3,066A40,ffffff
+f73555da,1,16,South Tryon,3,ad0101,ffffff
+f77e9a63,1,37,Rea Rd,3,005BAA,ffffff
+fd7346c3,1,90,Albemarle,3,005BAA,ffffff
+138d0466,1,501,Light Rail - Lynx Blue Line,1,0d7215,ffffff
+901,1,901,Silver Line,1,,
